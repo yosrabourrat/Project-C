@@ -1,0 +1,33 @@
+titre                                                  auteur                         edition   code
+
+SQL2 Initiation / Programation                         CHRISTIAN MAREE                A681      0045/INF
+Microsopft SQL Server 2000 Administration Systeme      MICROSOFT PRESS                A682      0050/INF
+SQL : La reference                                     Frederic Brouard               A683      0077/INF
+                                                       RONALD PLEW ET RYAN
+SQL                                                    STEPHENS                       A684      0142/INF
+OPTIMISER SQL SERVER                                   R,BRUCHEZ                      A685      0239/INF
+Joe Celko's SQL For Smarties / Advanced SQL ProgrammingJoe Celko                      A686      0277/INF
+                                                       Frederic Brouard , Rudi
+SQL                                                    Bruchez                        A687      0366/INF
+                                                       Frederic Brouard , Rudi
+SQL                                                    Bruchez                        A688      0367/INF
+                                                       Frederic Brouard , Rudi
+SQL                                                    Bruchez                        A689      0368/INF
+                                                       Pauline Cushman et Ramon
+Programmation SQL                                      Mata                           A690      0390/INF
+                                                       Pauline Cushman et Ramon
+Programmation SQL                                      Mata                           A691      0391/INF
+SQL Server 2008 - Administration d'une base de donnees
+avec SQL SMS                                           Jerome Gabillaud               A692      468 /INF
+SQL Server 2005 : SQL, Transact SQL                     Jerome Gabillaud              A693      471 /INF
+Apprendre SQL avec MySQL : Avec 40 exercices corriges  Christian Soutou               A694      503 /INF
+Apprendre SQL avec MySQL : Avec 40 exercices corriges  Christian Soutou               A695      504 /INF
+                                                       Philippe Rigaux et Yves
+Maitriser MySQL 5                                      Darmaillac                     A696      512 /INF
+                                                       John C. Worsley , Joshua D.
+PostgreSQL par la pratique (en francais)               Drake ,                        A697      518 /INF
+MySQL                                                  Paul Dubois                    A698      717 /INF
+                                                       Frederic Brouard , Christian
+SQL : Synthese de cours et exercices corriges          Soutou                         A699      734 /INF
+SQL Serveur 7.0                                        Marc Israel et M. Israel       A700      939 /INF
+

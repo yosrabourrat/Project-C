@@ -1,0 +1,134 @@
+titre                                                                       auteur                              edition   code
+
+Toutes les Mathèmatiques                                                    LUC VERCSHUEREN                     A1601     0010/MAT
+Mathematimatique tout -en -un 2 eme annee MP ,,,                            JEAN FRANCOIS RENAUD                A1602     0016/MAT
+Ecrits des Concours 2004 Mathematiques MP                                   BERNARD RANDé                       A1603     0046/MAT
+Best of Mathematiques : les Meilleurs Sujets de Concours,,,                 jean francois boutillon             A1604     0053/MAT
+Mathematique et Resolution des Equations ,,,                                G,GERAUD                            A1605     0054/MAT
+Methode des Element finis pour les Sciences de l' Ingenieur                 JOEL CHASKALOVICH                   A1606     0055/MAT
+Best of Mathematiques, les Meilleurs Sujet de Concours                      JEAN FRANCOIS                       A1607     0056/MAT
+Maple : Cours et Applications / 1ere et 2eme annee                          LIONEL PORCHERON                    A1608     0057/MAT
+Mathematiques , 42 Problemes resolus: 1ere annee ,,,                        M,APPERT                            A1609     0058/MAT
+Modeles et Algorithmes en ordonnancement                                    PH,BAPTISTE                         A1610     0059/MAT
+Outils Mathematiques pour le Genie des Procedes                             KADDOUR NAJIM                       A1611     0061/MAT
+Mathematiques Genarale pour 1er cycle ,,,                                   PATRICE ROVIRA                      A1612     0062/MAT
+Mathematiques et Informatique MP                                            MOEZ AJMI                           A1613     0063/MAT
+Problemes corriges de Mathematiques,,,                                      OLIVIER SELLES                      A1614     0064/MAT
+Mathematiques pour les Sciences de l' Ingenieur                             DANIEL FREDON                       A1615     0094/MAT
+Theorie des Graphes                                                         OLIVIER COGIS                       A1616     0097/MAT
+Martingales et Chaines de Markov                                            PAOLO BALDI                         A1617     0100/MAT
+Best of Mathematiques : les Meilleurs Sujets de Concours 2e Annee ,,,       jean francois boutillon             A1618     0135/MAT
+Mesure, integration, convention et transformee de Fourier des fonctions     EL HAJ LAAMRI                       A1619     0136/MAT
+Mesure, integration, convention et transformee de Fourier des fonctions     EL HAJ LAAMRI                       A1620     0137/MAT
+second international conference on Mathematical Methods in Reliability      Universite Victor Segalen           A1621     0144/MAT
+second international conference on Mathematical Methods in Reliability      Universite Victor Segalen           A1622     0145/MAT
+                                                                            Centre National de la recherche
+Image des Mathematiques 2004                                                Scientifique                        A1623     0146/MAT
+Maitrise d'Ingenierie (Elements Finis)                                      M, CROUZEIX (Renne)                 A1624     0147/MAT
+Licence de Mathematiques Appliquees (Certificat de Calcul Differentiel et
+Integral) Tome I
+                                                                            R, GAY                              A1625     0148/MAT
+Licence de Mathematiques Appliquees (Certificat de Calcul Differentiel et
+Integral) Tome II                                                           R, GAY                              A1626     0149/MAT
+Licence de Mathematiques Appliquees (Certificat de Calcul Differentiel et
+Intégral) Tome III                                                          R, GAY                              A1627     0150/MAT
+Calcul Differentiel                                                         Michel ZINSMEISTER                  A1628     0151/MAT
+Algorithmique Algebrique                                                    Henri COHEN                         A1629     0152/MAT
+Estimation de la Fiabilite d'Un Equipement                                  Julie BERTHON                       A1630     0153/MAT
+Attaque et methodes de protections de systeme cryptographique
+embarques (These)                                                           Mehdi-Laurent Akkar                 A1631     0154/MAT
+Algebre Elementaire                                                         Henri COHEN                         A1632     0155/MAT
+Exercice de Mathematiques Module M2 (Fevrier 1995)                          Genevieve Bretnoux - C, PANNIER     A1633     0156/MAT
+Exercice de Mathematiques Module M2 (Septembre 1995)                        Genevieve Bretnoux - C, PANNIER     A1634     0157/MAT
+Exercice de Mathematiques Module M2 (Septembre 1995)                        Genevieve Bretnoux - C, PANNIER     A1635     0158/MAT
+Exercice de Mathematiques Module M2 (Septembre 1995)                        Genevieve Bretnoux - C, PANNIER     A1636     0159/MAT
+Exercice de Mathematiques Module M2 (Septembre 1996)                        Genevieve Bretnoux - C, PANNIER     A1637     0160/MAT
+Exercice de Mathematiques Module M2 (Septembre 1996)                        Genevieve Bretnoux - C, PANNIER     A1638     0161/MAT
+Exercice de Mathematiques Module M11 (Octobre 1993)                         Mehdi-Laurent Akkar                 A1639     0162/MAT
+Exercice de Mathematiques Module M11 (Octobre 1993)                         Mehdi-Laurent Akkar                 A1640     0163/MAT
+m5 Mathematiques Generales ( Exercices)                                     Mehdi-Laurent Akkar et M, Olivier   A1641     0164/MAT
+m5 Mathematiques Generales ( Exercices)                                     Mehdi-Laurent Akkar et M, Olivier   A1642     0165/MAT
+m5 Mathematiques Generales ( Exercices)                                     Mehdi-Laurent Akkar et M, Olivier   A1643     0166/MAT
+m5 Mathematiques Generales ( Exercices)                                     Mehdi-Laurent Akkar et M, Olivier   A1644     0167/MAT
+m5 Mathematiques Generales ( Exercices)                                     Mehdi-Laurent Akkar et M, Olivier   A1645     0168/MAT
+Polycopie d'Ananlyse Numerique 2eme Annee de PC                             ENSIMIAAGE                          A1646     0169/MAT
+Polycopie d'Ananlyse Numerique 2eme Annee de PC                             ENSIMIAAGE                          A1647     0170/MAT
+Polycopie d'Ananlyse Numerique 2eme Annee de PC                             ENSIMIAAGE                          A1648     0171/MAT
+Mathematiques tout -en -un 2 eme annee MP ,,,                               JEAN FRANCOIS RENAUD                A1649     0175/MAT
+Toutes les Mathematiques                                                    LUC VERCSHUEREN                     A1650     0178/MAT
+                                                                            CHRISTINE FEUILLET, ISABELLE
+MATHS 2 ANNEE MP MP*                                                        SELON                               A1651     0186/MAT
+                                                                            CHRISTINE FEUILLET, ISABELLE
+EXCERCICES PROBLEMES MATHS 2 ANNEE PC PSI                                   SELON                               A1652     0187/MAT
+                                                                            DANIEL DUVEREY, SYLVIAN
+TOUTES LES MATHEMATIQUES MPSI PCSI PTSI                                     HEUMEZ                              A1653     0192/MAT
+module M30 cours d'Algebre                                                  Jacques QEYRUT                      A1654     0198/MAT
+MATHEMATIQUES premiere annee PC Sujets d'examens des facultes               M. CHIDAMI A. HASSOUNI M.
+1986                                                                        RACHIDI                             A1655     0207/MAT
+Exercices et problemes resolus de recherche operationnelle: Tome 1,
+Graphes                                                                     Roseaux                             A1656     0213/MAT
+Mathematiques - Universite 2eme annee - MIAS-SM - MASS                      G.BOURDAUD                          A1657     0222/MAT
+MATHS EXERCICES.ECS2/2                                                      S.BERTHOMME                         A1658     0223/MAT
+Mathematiques ECE : 1re annee et 2e annee                                   B.BOUISSOU                          A1659     0227/MAT
+500 Exercices corriges de mathematiques pour l'economie et la gestion       A.GASTINEAU                         A1660     0230/MAT
+MATHS EXERCICES.ECS 1/2                                                    S.BERTHOMME                         A1661     0231/MAT
+LES NOUVAUX PRECIS BREAL MATHEMATIQUES EXERCICES MP                         D.GUININ                            A1662     0238/MAT
+MATHEMTIQUES LES SERIES                                                     F.DELMER                            A1663     0240/MAT
+Recherche operationnelle, tome 3 : Programmation lineaire et extensions,
+problemes classiques                                                     Roseaux                               A1664      0241/MAT
+LES PLUS GRANDS CLASSIQUES DES CONCOURS                                  S.SERFATI                             A1665      0242/MAT
+PRECIS DE MATHEMATIQUES HEC OPTION SCIENTIFIQUE
+EXERCICE ET PROBLEMES Resolus                                            D,DEGRAVE                             A1666   0246/MAT
+MATHEMATIQUES ALGEBRE ANALYSE GEOMETRIE                                  M,KREE                                A1667   0250/MAT
+Mathematiques Les exercices incontournables MPSI-PCSI-PTSI               Freslon                               A1668   0252/MAT
+Mathematiques Methodes et Exercices BCPST 1re annee                      Bégyn/Connan                          A1669   0253/MAT
+Mathematiques Les exercices incontournables MP                           Freslon                               A1670   0254/MAT
+Methodes et Exercices de Mathematiques MPSI                              Jean-Marie Monier                     A1671   0263/MAT
+Précis de Mathématiques Exercices et problemes resolus                   D.CHARLOT                             A1672   0272/MAT
+MATHS VISA POUR LA PREPA MPSI-PCSI-PTSI 2 EDITION                        G,CONNAN                              A1673   0283/MAT
+EXERCICES ET PROBLEMES RESOLUS DE RECHERCHE
+OPERATIONNELLE                                                           ROSEAUX                               A1674   0286/MAT
+PROBLEMES CORRIGES DE MATHEMATIQUES 2 EDITION                            E,AZOULAY                             A1675   0289/MAT
+MATHEMATIQUES L 1 COURS COMPLET AVEC 1000 TESTS                          H,BOUALEM                             A1676   0291/MAT
+PREPAS SCIENCES MATHS ECE 1 ERE ANNEE                                    P,BERLANDI                            A1677   0292/MAT
+CAP PREPA MATHEMATIQUES PC-PC*                                           PH,QUIBLIER                           A1678   0295/MAT
+MATHS EXERCICES AVEC INDUCATION BCPST VETO 2eme ANNEE J,PASCAL GAUMET                                          A1679   0296/MAT
+MATHS PROBLEMES AVEC INDICATIONS ET CORRIGES MPSI                        W,DAMIN                               A1680   0297/MAT
+TOUTES LES MATHEMATIQUES PSI PSI*                                        H,GUILLAUMIE                          A1681   0298/MAT
+PREPAS SCIENCES MATHS MPSI 2 EDITION                                     W,DAMIN                               A1682   0300/MAT
+PREPAS SCIENCES MATHS TSI- 2 ANNEE                                       O,LEUCK                               A1683   0301/MAT
+TOUTES LES MATHEMATIQUES ET LES BASES DE L'INFORMATIQUE H,STOCKER                                              A1684   0303/MAT
+Basic College Mathematics                                                IGNACIO BELLO                         A1685   0308/MAT
+Mathematiques Tout-en-un 2e annee PC-PSI                                 Claude Deschamps                      A1686   0309/MAT
+Exercices et problemes resolus de recherche operationnelle, tome 1       Roseaux                               A1687   0312/MAT
+Exercices et problemes resolus de recherche operationnelle, tome 1       Roseaux                               A1688   0313/MAT
+Exercices et problemes resolus de recherche operationnelle, tome 1       Roseaux                               A1689   0314/MAT
+
+Mathématiques pour l'informatique, avec exercices corrigés               Andre Arnold et Irene Guessarian      A1698   0325/MAT
+Exercices et problemes resolus de recherche operationnelle, tome 1       Roseaux                               A1699   0329/MAT
+Exercices et problemes resolus de recherche operationnelle, tome         Roseaux                               A1700   0330/MAT
+Mathematiques superieures                                                   Ivan Gozard                        A1723   0366/MAT
+COURS ELEMENTAIRE DE MATEMATIQUES SUPERIEURS                                J.QUINET                           A1724   0368/MAT
+Les grands classiques de mathematiques: 1re annee : classes
+preparatoires MPSI-PCSI-PTSI                                                Daniel Guinin , Bernard Joppin ,   A1725   0369/MAT
+transformees de laplace                                                     SPIEGEL MURRAY R.                  A1726   0378/MAT
+Maths Tome 4 : [2e annee, 2e semestre]                                      Michel Zisman et F Liret           A1727   0380/MAT
+Mathematiques a l'usage des informaticiens                                  Thierry Brugere , Alain Mollard    A1728   0386/MAT
+Selection de problemes de mathematiques poses aux concours :
+Mathematiques superieures                                                   Ivan Gozard                        A1729   0387/MAT
+Mathematiques, DEUG sciences 1re annee, tome 2                              Azoulay et Avignant                A1730   0388/MAT
+Mathematiques, DEUG sciences 1re annee, tome 2                              Azoulay et Avignant                A1731   0389/MAT
+MATHEMATIQUES. Tome 3, 2eme annee, Cours et exercices resolus,
+2eme edition                                                                Jean Avignant et Elie Azoulay      A1732   0390/MAT
+MATHEMATIQUES. Tome 3, 2eme annee, Cours et exercices resolus,
+2eme edition                                                                Jean Avignant et Elie Azoulay      A1733   0391/MAT
+Cours de mathematiques speciales. Classes preparatoires
+d'enseignement.                                                             Ramis                              A1734   0396/MAT
+LE LANGAGE MATEMATIQUE                                                      O.C.D.L-HATIER                     A1735   0398/MAT
+Mathematiques DEUG A                                                        E Azoulay                          A1736   0399/MAT
+Mathematiques de l'informatique : Licence - Maitrise - Agregation : Cours
+et exercices corriges                                                       Patrick Dehornoy                   A1737   0402/MAT
+INTRODUCTION a la logique mathematique                                      P.S. NOVIKOV                       A1738   0403/MAT
+Mathematiques pour l'informatique, avec exercices corriges                  Andre Arnold et Irene Guessarian   A1739   0409/MAT
+Mathematiques pour l'informatique, avec exercices corriges                  Andre Arnold et Irene Guessarian   A1740   0410/MAT
+Mathematiques pour l'informatique, avec exercices corriges                  Andre Arnold et Irene Guessarian   A1741   0411/MAT

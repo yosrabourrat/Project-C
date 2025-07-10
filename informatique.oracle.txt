@@ -1,0 +1,59 @@
+titre                                                                   auteur                             edition code
+
+SQL pour Oracle Avec 40 exercices corriges                              Christian Soutou , Olivier Teste   A701   0079/INF
+                                                                        marlene theriault AARON
+Securite sous Oracle                                                    Newman                             A702   0093/INF
+SQL pour Oracle Avec 40 exercices corriges                              Christian Soutou, Olivier Teste    A703   0103/INF
+S Q L POUR ORACLE                                                       Christian soutou                   A704   0161/INF
+Oracle 10g : guide du DBA                                               K , Loney                          A705   0272/INF
+                                                                        Christian Soutou et Olivier
+SQL pour Oracle                                                         Teste                              A706   0381/INF
+                                                                        Christian Soutou et Olivier
+SQL pour Oracle                                                         Teste                              A707   0382/INF
+                                                                        Christian Soutou et Olivier
+SQL pour Oracle                                                         Teste                              A708   0383/INF
+                                                                        Christian Soutou et Olivier
+SQL pour Oracle                                                         Teste                              A709   0384/INF
+                                                                        Christian Soutou et Olivier
+SQL pour Oracle                                                         Teste                              A710   0385/INF
+Oracle 10g : Administration                                             Olivier Heurtel                    A711   463 /INF
+Oracle 10g : Entrainez-vous sur SQL et PL/SQL                           Jerome Gabillaud                   A712   472 /INF
+Oracle 10g : Entrainez-vous sur SQL et PL/SQL                           Jerome Gabillaud                   A713   473 /INF
+Oracle 10g : Entrainez-vous sur SQL et PL/SQL                           Jerome Gabillaud                   A714   474 /INF
+Oracle 10g : Entrainez-vous sur SQL et PL/SQL                           Jerome Gabillaud                   A715   475 /INF
+Oracle 10g : Entrainez-vous sur SQL et PL/SQL                           Jerome Gabillaud                   A716   476 /INF
+Oracle 10g :Entrainez-vous sur SQL et PL/SQL                            Jerome Gabillaud                   A717   477 /INF
+                                                                        Christian Soutou et Olivier
+SQL pour Oracle                                                         Teste                              A718   674 /INF
+                                                                        Christian Soutou et Olivier
+SQL pour Oracle (1DVD)                                                  Teste                              A719   675 /INF
+                                                                        Christian Soutou et Olivier
+SQL pour Oracle (1DVD)                                                  Teste                              A720   676 /INF
+                                                                        Christian Soutou et Olivier
+SQL pour Oracle (1DVD)                                                  Teste                              A721   677 /INF
+                                                                        Christian Soutou et Olivier
+SQL pour Oracle : Avec exercices corriges (1 livre + 1 DVD-Rom)         Teste                              A722   678 /INF
+SQL pour Oracle 10g                                                     Razvan Bizoi                       A723   680 /INF
+SQL pour Oracle 10g
+                                                                        Razvan Bizoi                       A724   681 /INF
+SQL pour Oracle 10g                                                     Razvan Bizoi                       A725   682 /INF
+SQL pour Oracle 10g                                                     Razvan Bizoi                       A726   683 /INF
+ORACLE8i programmation avancee PL/SQL                                   Scott Urman                        A727   701 /INF
+Les annuaires LDAP : Protocole, administration, meta-annuaires, API     Pierre-Yves Cloux et Corvalan      A728   728 /INF
+Oracle 10g : Administration                                             Olivier Heurtel                    A729   753 /INF
+                                                                        Steven Feuerstein et Valerie
+Guide du programmeur : Oracle PL/SQL                                    Eyt                                A730   764 /INF
+Oracle 9i sous Linux (2 CD-ROM inclus)                                  Gilles Briard                      A731   775 /INF
+Comprendre Merise : Outils conceptuels et organisationnels              Jean-Patrick Matheron              A732   799 /INF
+Objet relationnel sous Oracle 8. Modelisation avec UML                  Christian Soutou                   A733   832 /INF
+OOM, la conception objet des systemes d'information : concepts, modele, Bouzeghoub, Mokrane ;
+methodes                                                                Rochfeld                           A734   912 /INF
+Oracle 9i sous Linux (2 CD-ROM inclus)                                  Gilles Briard                      A735   944 /INF
+Oracle 8, utlisation programmation                                      Roger Chapuis                      A736   961 /INF
+                                                                        Christian Soutou et Patrick               1010
+Programmer objet avec Oracle : Concepts et pratiques (1DVD)             Valduriez                          A737   /INF
+                                                                                                                  1018
+Objet relationnel sous Oracle 8. Modelisation avec UML                  Christian Soutou                   A738   /INF
+La methode axial / planification du systeme d'information et supports                                             1022
+logiciels                                                               Pellaumail                         A739   /INF
+

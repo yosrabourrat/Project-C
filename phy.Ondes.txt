@@ -1,0 +1,62 @@
+
+titre                                                                         auteur           edition   code
+_______________________________________________________________________________________________________________
+
+                                                                              HUBERT
+Ondes Electromagnetiques dans les vides et les conducteurs                    LUMBROSO         A2144     0081/PHY
+
+                                                                              HUBERT
+Ondes Mecaniques et Sonores, 70 Poblemes resolus                              LUMBROSO         A2145     0082/PHY
+
+                                                                              HUBERT
+Ondes Mecaniques et Sonores                                                   LUMBROSO         A2146     0083/PHY
+
+                                                                              DAVID
+Physique 3 , Ondes, Optique et Physique Moderne                               HALLIDAY         A2147     0084/PHY
+
+Ondes Elastiques dans les Solides , Tome 2                                    DANIEL ROYER     A2148     0085/PHY
+
+Ondes Elastique dans les Solides Tome 2                                       DANIEL ROYER     A2149     0086/PHY
+
+                                                                              AMAURY
+Apprendre les Ondes/ cours et exercices corriges                              MOUCHET          A2150     0087/PHY
+
+Propagation d'ondes ,,,                                                       P, DENEVE        A2151     0088/PHY
+
+Physique des Ondes                                                            L,SARTRE         A2152     0089/PHY
+
+                                                                               Jean-Marie
+Ondes 2e annee MP-MP*/PC-PC*/PSI-PSI*/PT-PT*                                  Brebec           A2153     0104/PHY
+
+                                                                              Thomas brunhes
+                                                                              - Antoine
+PUISSANCE PREPAS ONDEES MECANIQUE ET SONORES PC-PSI                           RAMSPACHER       A2154     0179/PHY
+
+Construire Des Recepteurs De Radio Numerique Sur Ondes Courtes                Kainka B         A2155     0186/PHY
+
+PHYSIQUE DES ONDES PC-PC 2eme ANNEE                                           V,GADIOU         A2156     0230/PHY
+
+PHYSIQUE 3 ONDES OPTIQUE ET PHYSIQUE MODERNE                                  R,LAFRANCE       A2157     0241/PHY
+
+PHYSIQUE DES ONDES 2 eme edition                                              A, AMAND         A2158     0245/PHY
+
+                                                                              Emile Amzallag,
+                                                                              Joseph Cipriani,
+Ondes electromagnetiques et milieux                                            Piccioli        A2159     0261/PHY
+
+                                                                              EMILE
+La Physique EN FAC Ondes electromagnétiques et milieux                        AMZALLAG         A2160     0271/PHY
+
+VIBRATIONS ONDES L2-L3                                                        J,BRUNEAUX A2161           0321/PHY
+
+Micro-ondes - Cours et exercices avec solutions, tome 2 : Circuits passifs,   Paul-François
+propagation, antennes                                                         Combes           A2162     0346/PHY
+
+Livre des techniques du son, tome 2. la technologie                           Denis Mercier    A2163     0348/PHY
+
+Livre des techniques du son, tome 1. Notions fondamentales                    Denis Mercier    A2164     0350/PHY
+
+                                                                              Pierre Loyez     A2165     0353/PHY
+
+
+

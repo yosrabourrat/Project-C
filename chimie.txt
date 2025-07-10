@@ -1,0 +1,131 @@
+
+Titre                                                                           Auteur                         Edition       Code
+____________________________________________________________________________________________________________________________________
+
+Chimie : 90 Ex et Problemes corriges                                         NICOLAS LES CURE                    A1        0001/CHI
+Chimie Generale, Chimie Organique                                            MICHELE POLISSET                    A2        0002/CHI
+Chimie : 90 Ex et Problemes corriges                                         NICOLAS LES CURE                    A3        0003/CHI
+Chimie generale , cours et exercices resolus                                 Rene DIDIER                         A4        0004/CHI
+Traitement general de Chimie                                                 JEAN CLAUDE LABBE                   A5        0005/CHI
+Chimie General pour l'ingenieur                                              CLAUDE K,W FRIEDLI                  A6        0006/CHI
+Chimie avec Maple /70 Ex et problemes corriges 1ere annee                    NICOLAS LESCURE                     A7        0007/CHI
+Chimie avec Maple /70 Ex et problemes corriges 1ere annee                    NICOLAS LESCURE                     A8        0008/CHI
+Chimie avec Maple /70 Ex et Problemes corriges 1ere annee                    NICOLAS LESCURE                     A9        0009/CHI
+Chimie et Physico- Chimie des Polymeres                                      MICHEL FANTANILLE                   A10       0010/CHI
+Introduction a la Physique des Polymeres                                     SERGE ETIENNE                       A11       0011/CHI
+Introduction a la Physique des Polymeres                                     SERGE ETIENNE                       A12       0012/CHI
+Thermodynamique Chimique                                                     ALAIN GRUGER                        A13       0013/CHI
+CHimie Physique,Exercices resolus                                            PAUL ARNAUD                         A14       0014/CHI
+Chimie physique / Cours et Exercices corriges                                PAUL ARNAUD                         A15       0015/CHI
+Chimie Physique / Approche Moleculaire                                       DONALD A , MC QUARRIE               A16       0016/CHI
+Guide du Risque Chimique, Identification , Evaluation, Maitrise              BERNARD MARTEL                      A17       0017/CHI
+Genie Electrochimique, Principes et Procedes                                 HARTMUT WENDT                       A18       0018/CHI
+Chimie Thermodynamique Materiaux                                             J,MESPLEDE                          A19       0019/CHI
+Thermodynamique Chimique                                                     ALAIN GRUGER                        A20       0020/CHI
+Thermodynamique et Equilibres Chimiques                                      ALAIN GRUGER                        A21       0021/CHI
+Thermodynamique Chimique                                                     ALAIN GRUGER                        A22       0022/CHI
+Chimie Analytique , Equilibres en Solution                                   MICHEL GUERNET                      A23       0023/CHI
+Chimie Analytique Equilibres en Solution                                     MICHEL GUERNET                      A24       0024/CHI
+Chimie Analytique                                                            MICHEL GUERNET                      A25       0025/CHI
+ Proprietes et Comportements des Materiaux                                   ALAIN CORNET                        A26       0026/CHI
+Equilibres chimiques en solution                                             NICOLE BOIS                         A27       0027/CHI
+Structure Electronique des Molecules                                         YVES JEAN                           A28       0028/CHI
+Les Constituants Chimiques de la Matiere                                     MARC LEFORT                         A29       0029/CHI
+Chimie Theorique Applications a la spectroscopie                             ROLAND LISSILLOUR                   A30       0030/CHI                                                                        
+Chimie Inorganique et Generale / 34 themes et 70Experiences                  FRANCOISE BRENON                    A31       0031/CHI
+Introduction a la Chimie Organique / Cours et Exercices resolus              HAROLD HART                         A32       0032/CHI
+Chimie Quantique / Exercices et Problemes resolus                            CLAUDE MILLOT                       A33       0033/CHI
+Chimie des Milieux Aquatiques,,,                                             LAURA SIGG                          A34       0034/CHI
+Thermodynamique - 2e annee PC-PSI                                            V. Renvoize /                       A35       0035/CHI
+Thermodynamique des etats de la matiere                                      P.Papon J.Leblond /                 A36       0036/CHI
+Genie chimique - Cinetique et catalyse heterogenes                           B. Gilot, R. Guiraud /              A37       0037/CHI
+Chimie - Physique                                                            A et E. Le Masne de Chermont,       A38       0038/CHI
+Procedes de separation                                                       J.Humphrey G.Keller /               A39       0039/CHI
+Proprietes et caracteristiques des materiaux de construction                 Y. Couasnet / Le Monit              A40       0040/CHI
+Sciences des materiaux - Metallurgie mecanique                               A. Cornet, F. Hlawka /              A41       0041/CHI
+Metallographie et techniques d'analyse                                       Assoc tech de trait therm (Attt)    A42       0042/CHI
+Procedes de separation - techniques selection dimensionnement-               Humphrey Jimmy l                    A43       0043/CHI
+Introduction a la cinetique chimique (cours et exercices corriges) licence   Sam R. Logan                        A44       0044/CHI
+Thermodynamique, equilibres, cinetique et chimie metallurgique-              Bernard Dubois                      A45       0045/CHI
+400 manipulations commentées de Chimie organique : Tome 1                    Jean-Pierre Bayle                   A46       0046/CHI
+CHIMIE INDUSTRIELLE                                                          Robert Perrin/ Jean-Pierre Schrff   A47       0047/CHI
+Chimie Inorganique (Theories et applications)                                GARY Wulfsberg                      A48       0048/CHI
+
+                                                                             Daniel BALOU Eric Fabritus Andre
+Chimie (1ere Annee PCSI tome1)                                               Gilles                              A49       0049/CHI
+
+Chimie physique (Exercices Resolus)                                          PaUL ARNAUD                         A50       0050/CHI
+
+Agregation des Sciences Physiques Option Chimie - CHIMIE
+ORGANIQUE                                                                    BRUNO FOSSET                        A51       0051/CHI
+
+CHimie Physique,Exercices resolus                                            PAUL ARNAUD                         A52       0052/CHI
+Chimie Generale, Chimie Organique                                            MICHELE POLISSET                    A53       0053/CHI
+
+                                                                             BRUNO FOSSET, JEAN BERNARD
+CHIMIE TOUT EN - UN PCSI                                                     baudin                              A54       0054/CHI
+CHIMIE ORGANIQUE                                                             PAUL ARNAULD                        A55       0055/CHI
+CHIMIE ORGANIQUE EXERCICES RESOLUS                                           PAUL ARNAULD                        A56       0056/CHI                                                                            
+CHIMIE PHYSIQUE                                                              PAUL ARNAUD                         A57       0057/CHI
+PRECIS DE CHIMIE CHIMIE ORGANIQUE                                            J. MESPLEDE, J. I. Queryrel         A58       0058/CHI
+PRECIS DE CHIMIE CHIMIE ORGANIQUE                                            J. MESPLEDE, J. I. Queryrel         A59       0059/CHI
+PRECIS DE CHIMIE CHIMIE ORGANIQUE                                            J. MESPLEDE, J. I. Queryrel         A60       0060/CHI
+
+                                                                             brabara mercier-james Jean-marc
+PUISSANCE PREPA CHIMIE ORGANIQUE                                             Urbain                              A61       0061/CHI
+
+PUISSANCE PREPA CHIMIE MPSI                                                  L. BONETTO - E. BRUCKERT            A62       0062/CHI
+PREPA CHIMIE POUR LA PREPA                                                   THIERRY MANCINI                     A63       0063/CHI
+LES NOUVAUX PRECIS BREAL CHIMIE ORGANIQUE PC                                 J.MESPLEDE                          A64       0070/CHI
+ EXERCICES ET PROBLEMES DE CHIMI GENERALE SUP                                R DIDIER                            A65       0071/CHI
+
+LES NOUVAUX PRECIS BREAL CHIMIE THERMODYNAMIQUE
+MATERIAUX INORGANIQUES PC                                                    J.MESPLEDE                          A66       0072/CHI
+
+EXERCICES DE CHIMI DES SOLIDES                                               J.FRANCIS                           A67       0073/CHI
+PUISSANCE PREPAS CHIMI MPSI                                                  L. BONETTO - E. BRUCKERT            A68       0074/CHI
+INTRODUCTION LA CRISTALLOCHIMIE                                              D,RIOU                              A69       0075/CHI
+Chimie generale exercices et problemes resolus                               M, HAJJAJI - S. KACIMI              A70       0076/CHI
+Chimie generale exercices et problemes resolus                               M, HAJJAJI - S. KACIMI              A71       0077/CHI
+Chimie generale exercices et problemes resolus                               M, HAJJAJI - S. KACIMI              A72       0078/CHI
+Chimie generale exercices et problemes resolus                               M, HAJJAJI - S. KACIMI              A73       0079/CHI
+Chimie generale exercices et problemes resolus                               M, HAJJAJI - S. KACIMI              A74       0080/CHI
+Chimie generale exercices et problemes resolus                               M, HAJJAJI - S. KACIMI              A75       0081/CHI
+Chimie generale exercices et problemes resolus                               M, HAJJAJI - S. KACIMI              A76       0082/CHI
+Chimie generale exercices et problemes resolus                               M, HAJJAJI - S. KACIMI              A77       0083/CHI
+Chimie generale exercices et problemes resolus                               M, HAJJAJI - S. KACIMI              A78       0084/CHI
+Chimie generale exercices et problemes resolus                               M, HAJJAJI - S. KACIMI              A79       0085/CHI
+
+                                                                             Pierre Krausz, Rachida Benhadou
+Mini manuel de Chimie organique                                              Zerrouki                            A80       0086/CHI
+
+Mini Manuel de Chimie generale                                               Elisabeth Bardez                    A81       0087/CHI
+Tous les exercices de Chimie MP-PSI-PT                                       Simon Beaumont                      A82       0088/CHI
+
+                                                                             Annick Becam, Julien Lalande, Jean
+Chimie organique                                                             Le Hir                              A83       0089/CHI
+
+                                                                             Paul Arnaud                         A84       0090/CHI
+Exercices resolus de Chimie organique
+                                                                             Françoise Rouquerol, Gilberte
+Exercices resolus de Chimie Physique                                         Chambaud                            A85       0091/CHI
+
+Chimie Organique Rappels de Coures,QCM exercices corriges et
+commentes                                                                    AMAL M.CHLYEH                       A86       0092/CHI
+
+CHIMIE ORGANIQUE COURS AVEC 350 QUESTIONS 18 EDITION                         B, JAMART                           A87       0093/CHI
+
+METHOD'S PHYSIQUE CHIMIE TROISEME 43 METHODES 76 
+EXERCICES CORRIGES                                                           G. LEY                              A88       0094/CHI
+
+METHOD'S PHYSIQUE CHIMIE TERMINALE S165 METHODES 56
+EXERCICES CORRIGES                                                           J,CHARLES EXCOFFON                  A89       0095/CHI
+PREPAS SCIENCES PHYSIQUE CHIMIE MPSI 2 EDITION                               C,BONOMELLI                         A90       0096/CHI
+PREPAS SCIENCES PHYSIQUE CHIMIE TSI 1 ere ANNEE                              T,FINOT                             A91       0097/CHI
+physique chimie psi                                                          Y Almeras                           A92       0098/CHI
+chimie organique cours et 64 exercices corriges 1ere annee mpsi pcsi ptsi    A Becam                             A93       0099/CHI
+chimie thermoynamique materiaux inorganiques pc                              J Mesplede                          A94       0100/CHI
+CYCLES BIOGECHIMIQUES ET ECOSYSTEMES CONTINENTAUX                            G,PEDRO                             A95       0101/CHI
+Chimie 1e annee MPSI, PTSI, TSI : Exercices corriges                         Sylvie Devillard                    A96       0102/CHI
+Exercices et problemes CHIMIE 2e annee PC                                    Andre DURUPTHY                      A97       0103/CHI
+Chimie tout-en-un. PCSI                                                      Bruno FOSSET                        A98       0104/CHI

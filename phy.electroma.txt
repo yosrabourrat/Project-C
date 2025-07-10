@@ -1,0 +1,121 @@
+
+titre                                                          auteur         edition     code
+__________________________________________________________________________________________________
+
+Les Phénomènes Electromagnetiques                              Paul Lorrain   A1966     0030/PHY
+
+                                                               JACQUES
+Le champs Magnetique dans les Milieux Materiels                BOUTIGNY       A1967     0039/PHY
+
+                                                               ANDRE
+Electrocinetique                                               SAVARY         A1968     0040/PHY
+
+                                                               EDWARD M,
+Cours de Physique 2, Electricite et Magnetisme                 PURCELL        A1969     0041/PHY
+
+
+Physique 2 Electricite et Magnetisme                           SERWAY         A1970     0042/PHY
+
+                                                               EMILE
+Electrostatique / rappels de cours et exercices corriges ,,,   AMZALLAG       A1971     0043/PHY
+
+Electrostatique et Magnetostatique,,,                          JANINE BRUNO   A1972     0044/PHY
+
+                                                               JEAN MARIE
+Electromagnetisme                                              PARISI         A1973     0045/PHY
+
+Equations de MAXWELLE/ Ondes Electromagnetiques                MICHEL HULIN   A1974     0046/PHY
+
+Cours de Physique / Electromagnètisme 1 electrostatique et     DANIEL
+magnetostatique                                                CORDIER        A1975     0049/PHY
+
+                                                               JOSE PHILIPPE
+Electomagnetisme : Fondement et Applications                   PEREZ          A1976     0050/PHY
+
+Le cours de physique de feynman                                FEYNMAN        A1977     0056/PHY
+
+Electromagnetisme : 2e année MP-MP*-PC-PC*-PSI-PSI*-PT-        Jean-Marie
+PT*                                                            Brebec         A1978     0105/PHY
+
+Le cours de physique de feynman electromagnetisme2             FEYNMAN        A1979     0123/PHY
+
+                                                               David Halliday
+                                                               Robert Resnick
+PHYSIQUE 2 ELECTRICITE ET MAGNETISME                           Jearl walker   A1980     0152/PHY
+
+                                                               Joseph
+ELECTROMAGNETISME                                              EDMINISTER     A1981     0153/PHY
+
+                                                               Joseph
+ELECTROMAGNETISME                                              EDMINISTER     A1982     0154/PHY
+
+                                                               J.-L.QUEYREL,
+PRECIS DE PHYSIQUE ELECTROMAGNETISME                           J. MESPLEDE A1983        0161/PHY
+
+                                                               Christian
+MAGNETISME statique, induction et milieux                      GARING         A1984     0173/PHY
+                                                               ANDRE
+                                                               BROUTEE,
+                                                               YANN
+ELECTROMAGNETISME 2 Annee MP-MP* -PT-PT*                       FERCHAUX       A1985     0175/PHY
+                                                               JEAN BERGUA,
+                                                               PHILIPPE
+                                                               GOULLEY
+RESOUDRE UN CLASSIQUE ELECTROCINETIQUE                         DOMINIQUE
+ELECTROMAGNETISME OPTIQUE                                      NESSI          A1986     0177/PHY
+
+                                                               EWA PALUCH,
+PUISSANCE PREPAS ELECTROMAGNETISME 2 annee,                    ANTOINE
+toutes sections                                                RAMSPAACHER    A1987     0181/PHY
+
+PRECIS DE PHYSIQUE _ELECTRMAGNETISME MPSI- PCSI-
+PTSI                                                           J.L.QUEYREL    A1988     0201/PHY
+
+ELECTROMAGNETISME 2E MP- MP*-PC-PC*/PSI-PSI*-PT-
+PT*                                                            J.M.BREBEC     A1989     0204/PHY
+
+LES NOUVAUX PRECIS BREAL PHYSIQUE
+ELECTROMAGNETISME PCSI                                         P.KREMPF       A1990     0210/PHY
+
+LES NOUVAUX PRECIS BREAL PHYSIQUE
+ELECTROCINETIQUE PCSI                                          J.ROSSET       A1991     0211/PHY
+
+PRECIS DE PHYSIQUE -ELECTROCINETIQUE                           J.L.QUEYREL    A1992     0227/PHY
+
+PHYSIQUE 2 ELECTRICITE ET MAGENTISME                           R,LAFRANCE     A1993     0240/PHY
+
+                                                               Raymond A.
+                                                               Serway
+PHYSIQUE 2 ELECTRICITE ET MAGNETISME                                          A1994     0242/PHY
+
+                                                              Tamer
+Mini Manuel d'electrocinetique                                Becherrawy      A1995     0251/PHY
+
+                                                          
+Electromagnetisme Prépas MP 2eme annee Precis de Physique     J.MESPLEDE       A1998     0274/PHY
+
+
+Electromagnetisme Prépas MPSI-PCSI-PTSI 1re Precis de
+Physique                                                      J.MESPLEDE       A1999     0276/PHY
+
+Electromagnetisme Prepas MPSI-PCSI-PTSI 1re Precis de
+Physique                                                      J.MESPLEDE       A2000     0277/PHY
+
+LES PHENOMENES ELECTROMAGNETIQUES                             P,LORRAIN        A2001     0284/PHY
+
+
+ELECTROCINETIQUE AVEC MAPLE ET PSPICE 68
+EXERCICES 1er ET 2eme ANNEE MP/PC                              N,LESCURE     A2002     0294/PHY
+
+LES PHENOMENES ELECTROMAGNETIQUES                              P,LORRAIN     A2003     0309/PHY
+
+                                                               J,PHILIPPE
+ELECTROMAGNETISME FONDEMENTS ET APPLICATIONS PEREZ                            A2004     0310/PHY
+
+électrocinetique electromagnetisme optique mpsi -ptsi physique JBergua      A2005     0329/PHY
+
+                                                               Jose 
+Electromagnetismes Fondement et application                    PEREZ         A2006     0340/PHY
+
+COURS DE PHYSIQUE T02 ELECTRICITE MAGNETISME                   Berkeley      A2007     0345/PHY
+

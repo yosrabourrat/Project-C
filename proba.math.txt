@@ -1,0 +1,74 @@
+
+titre                                                                           auteur                           edition    code
+____________________________________________________________________________________________________________________________________
+
+Statistique Descriptive ,,,                                                     MICHEL JANVIER                   A1536     0034/MAT
+Statistique Descriptive ,,,                                                     MICHEL JANVIER                   A1537     0035/MAT
+Probabilites Statisique et Processus Stochastique                               PATRICK ROGER                    A1538     0036/MAT
+Toutes les Probabilites et les Statistiques                                     JACQUES,D                        A1539     0037/MAT
+Precis de Mathematiques                                                         D,DEGRAVE                        A1540     0095/MAT
+Probabilites et Statistiques de A a Z                                           FRANCOIS DRESS                   A1541     0096/MAT
+Probabilites, Analyses des Donnees et Statistiques                              G,SAPORTA                        A1542     0098/MAT
+Probabilites , 1er Cycle Mass                                                   JEAN ,JACQUES,M                  A1543     0099/MAT
+Probabilites , Tome 2                                                           JEAN YVES,O                      A1544     0102/MAT
+Probabilites Statistique,,,                                                     PATRICK ROGER                    A1545     0103/MAT
+Processus stochastiques appliques                                               Mario Lefebvre                   A1546     0104/MAT
+Probabilites et statistiques pour modeliser et decider -                        Nicolas Savy                     A1547     0105/MAT
+Probabilites et statistique aujourd'hui -                                       Martine Quinio Benamo            A1548     0106/MAT
+Probabilites                                                                    Maurice Lethielleux              A1549     0107/MAT
+                                                                                M. Cottrell, V. Genon-Catalot,
+Exercices de probabilites                                                       Ch. Duhamel                      A1550     0108/MAT
+Probability and Statistics by Example                                           Yuri Suhov et Mark Kelbert       A1551     0109/MAT
+Probabilites et statistiques                                                    Celyne Laliberté                 A1552     0110/MAT
+Processus stochastiques pour l'ingenieur                                        Bassel Solaiman                  A1553     0172/MAT
+Processus stochastiques - Processus de Poisson, chaines de Markov et            Dominique Foata et Aime
+martingales - Cours et exercices corriges - 2e cycle/Master                     Fuchs                            A1554     0176/MAT
+Probabilites pour scientifiques et ingenieurs - Introduction au calcul des
+probabilites - cours et exercices corriges                                      Patrick bogaert                  A1555     0177/MAT
+Probabilites et statistiques - De la conception a la comprehension              Celyne Laliberte                 A1556     0179/MAT
+                                                                                Mihai Brancovan et Thierry
+Probabilites - Cours et exercices corriges - Niveau M1                          Jeulin                           A1557     0180/MAT
+PROBABILITES ET STATISTIQUE POUR LES SCIENCES PHYSIQUE                          Jean-Louis Femenias              A1558     0182/MAT
+CALCUL DES PROBABILITES EXCIRCICES CORIGE AVEC RAPPEL                           MUSTAPHA KCHIRID                 A1559     0189/MAT
+                                                                                ADIL ELMARHOUM,
+                                                                                MOHAMED DIOURI
+PROBABILITES EXCERCICES CORRIGES AVEC RAPPELS                                                                    A1560     0190/MAT
+encyclopedie de mathematiques STATISTIQUES DESCRIPTIVES cours et                Adil elmarhoum Mohamed
+exercice corriges                                                               DIOURI                           A1561     0195/MAT
+Statistique et probabilites pour l'ingenieur - Aide-memoire                     Renee Veysseyre                  A1562     0199/MAT
+Exercices et problemes de Statistique et probabilites/ Rappels de cours,        Therese Phan et Jean-Pierre
+methodes, exercices e problemes avec corriges detailles                         Rowenczyk                        A1563     0209/MAT
+Probabilites : Variables aleatoires-Convergences-Conditionnement                Y.LACROIX                        A1564     0220/MAT
+PROBABILITE exercices corriges                                                  H.CARRIEU                        A1565     0221/MAT
+PROBABILITES ET STATISTIQUE                                                     B.JOURDAIN                       A1566     0236/MAT
+STATISTIQUE ET PROBABILITES                                                     T.PHAN                           A1567     0239/MAT
+                                                                                Francoise Couty, Jean Debord,
+Mini Manuel de Probabilites et statistique                                      Daniel Fredon                    A1568     0244/MAT
+                                                                                Therese Phan, Jean-Pierre
+Exercices et problemes de Statistique et probabilites                           Rowenczyk                        A1569     0265/MAT
+AIDE MEMOIRE STATISTIQUE ET PROBABILITES POUR L'INGENIEUR 2
+EDITION                                                                         R,VEYSSEYRE                      A1570     0276/MAT
+INITIATION A LA STATISTIQUE AVEC R                                              F,BERTRAND                       A1571     0280/MAT
+STATISTIQUE ET PROBABILITES MANUEL ET EXERCICES CORRIGES 4
+eme EDITION                                                                     J,PIERRE LECOUTRE                A1572     0281/MAT
+EXERCICES ET PROBLEMES STATISTIQUE ET PROBABILITES                              Y,PHAN                           A1573     0287/MAT
+PROBABILITES STATISTIQUE                                                        B,JOURDAIN                       A1574     0290/MAT
+PROBABILITE L3M1 EXERCICES CORRIGES                                             H,CARRIEU                        A1575     0293/MAT
+STATISTIQUES ET EXPERIMENTATION EN BIOLOGIE                                     J,CLAUDE LABERCHE                A1576     0304/MAT
+THEORIE DES SONDAGES ECHANTILLONNAGE ET ESTIMATION EN
+POPULATION FINIES                                                               Y,TILLE                          A1577     0305/MAT
+Probabilites- et- statistiques -pour-les-ingenieurs                             Ali Mansour                      A1578     0306/MAT
+Probabilites analyse des donnees et statistique                                 Gilbert SAPORTA                  A1579     0310/MAT
+Pour comprendre les probabilites                                                Jacqueline Fourastie et Marie
+                                                                                Berrondo-Agrell                  A1580     0346/MAT
+table statistique et financieres                                                Jean laborde                     A1581     0347/MAT
+Statistiques descriptives                                                       bernard grais                    A1582     0351/MAT
+Urbanotropismes : essai d'interpretation des statistiques migratoires           Lorant Marie                     A1583     0352/MAT
+des villes introduction a la statistique en sciences sociales                   y. ARAGON                        A1584     0353/MAT
+Statistique theorique et appliquee / Tome 2                                     pierre DAGNELIE                  A1585     0354/MAT
+STATISTIQUE                                                                     G.FOURGEAUD-A.FUCHS              A1586     0371/MAT
+Apprentissage statistique: Reseaux de neurones. Cartes topologiques.            Gerard Dreyfus , Jean-Marc
+Machines a vecteurs supports                                                    Martinez                         A1587     0373/MAT
+Initiation au hasard                                                            Jose Rose                        A1588     0385/MAT
+MATHEMATIQUES PROBABILITES ET STATISTIQUE COURS ET
+EXERCICES                                                                       Yves HEBERT                      A1589     0397/MAT

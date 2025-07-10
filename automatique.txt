@@ -1,0 +1,27 @@
+
+titre                                              auteur          edition                 code
+__________________________________________________________________________________________________
+
+NUMERIQUE DU SIGNAL                                MARTIN           A132                  0030/AUT
+AUTOMATIQUE PROBLEMES RESOLUS D'AUTOMATIQUE        RENE HUSSON      A133                  0031/AUT
+INITIATION AUX SCIENCES DE L'INGENIEUR             R.GOURHANT       A134                  0032/AUT
+SCIENCES DE L'INGENIEUR                            A.POUGET         A135                  0033/AUT
+AUTOMATIQUE LINEAIRE CONTINUE                      N.BENNIS         A136                  0034/AUT
+AUTOMTIQUE                                         Y.GRANJON        A137                  0035/AUT
+SCIENCES DE L'INGENIEUR PREMIERES                  C.BRYSELBOUT     A138                  0036/AUT
+INITIATION AUX SCIENCES DE L'INGENIEUR             F.BENIELLI       A139                  0037/AUT
+SCIENCES INDESTRIELLES POUR L'INGENIEUR 2eme annee C.BRYSELBOUT     A140                  0038/AUT
+SCIENCES INDESTRIELLES POUR L'INGENIEUR 1ere annee G.COLOMBARI      A141                  0039/AUT
+AUTOMATIQUE LINEAIRE CONTINUE                      N,BENNIS         A142                  0040/AUT
+AUTOMATIQUE LINEAIRE CONTINUE                      N,BENNIS         A143                  0041/AUT
+Automatique                                        Wolf             A144                  0042/AUT
+Automatique Lineaire Continue                      NAJIB BENNIES    A145                  0043/AUT
+LES CAPTEURS 50 EXERCICES ET PROBLEMES CORRIGES    DASSONVALLE      A146                  0044/AUT
+Automatique des systemes continus:                 Ch,Sueur         A147                  0045/AUT
+Automatique des systemes continus:                 Ch,Sueur         A148                  0046/AUT                     
+Automatique : Cours et exercices corriges          Yves Granjon     A151                  0047/AUT                                                                                    
+Automatique : Cours et exercices corriges          Yves Granjon     A152                  0050/AUT                                                                                          
+Automatique : Cours et exercices corriges          Yves Granjon     A153                  0051/AUT                                       
+Industrielles : Cours et Exercices Corriges        Jean-Yves        A154                  0052/AUT
+Industrielles : Cours et Exercices Corriges        Jean-Yves        A155                  0053/AUT                                                                
+commande a signaux echantillonnes, avec 71 exos    Daniel Royer     A156                  0054/AUT

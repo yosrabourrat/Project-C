@@ -1,0 +1,92 @@
+
+titre                                          auteur          edition        code
+_____________________________________________________________________________________
+
+Management industriel et logistique            DELFT Christian  A300       0001/G.IND
+
+Tableaux de bord pour decideurs qualite        SAULOU J-Y       A301       0002/G.IND
+
+Les tableaux de bord de la performance         IRIBARNE         A302       0003/G.IND
+
+Les tableaux de bord de la communication       LIBAERT Thierry  A303       0004/G.IND
+
+40 principes d'innovation, TRIZ                Genrich          A304       0005/G.IND
+
+Batir un systeme integre                       Florence         A305       0006/G.IND
+
+Pratique de la maintenance preventive          HENG Jean        A306       0007/G.IND
+
+Securite et automatique                        Pilz / Dunod     A308       0009/G.IND
+
+Pratique de la maintenance preventive          HENG Jean        A309       0010/G.IND
+
+La production par les flux                     J,Segonzac       A310       0011/G.IND
+
+La maitrise des flux industriels               R,Biteau S       A311       0012/G.IND
+
+Organisation et gestion de la production       B,Grabot         A312       0013/G.IND
+
+Marketing industriel                           J, Valla         A313       0014/G.IND
+
+Comment maitriser sa productivite industrielle H,Molet          A314       0015/G.IND
+
+Fiabilite des structures industrielles         Morilhat         A315       0016/G.IND
+
+industriels                                    A,Reiller        A316       0017/G.IND
+
+L'ordonnancement                               P,Esquirol       A317       0018/G.IND
+
+Introduction au traitement d'images            G,Burel          A318       0019/G.IND
+
+TRIZ : The Right Solution et the Right Time    Yuri Salamatov   A319       0020/G.IND
+
+Une explorations des signaux en Ondelettes     Stéphane Mallat  A320       0021/G.IND
+
+ENGINEERING OF CREATIVITY                      Savransky        A321       0022/G.IND
+
+Management de l'innovation                     K. Pavitt        A322       0023/G.IND
+
+Les processus d'innovation                     Weil             A323       0024/G.IND
+
+Le guide de la TPM                             J. Bufferne      A324       0025/G.IND
+
+Pratique de l'analyse fonctionnelle            R. Tassinari     A325       0026/G.IND
+
+Optimisation des flux de production            A. Hssain        A326       0027/G.IND
+L'analyse du cycle de vie d'un produit ou d'un
+service                                        L. Grisels       A327       0028/G.IND
+
+Le Kanban                                      R. Colin         A328       0029/G.IND
+
+Ordonnancement et pilotage d'atelier           R. Colin         A329       0030/G.IND
+
+Le SMED                                        R. Colin         A330       0031/G.IND
+
+Plans d'experiences en gestion industrielle    G.Lasnier        A331       0032/G.IND
+
+Gestion de production                          B.Grabot         A333       0034/G.IND
+
+Techniques de modelisation en entreprise       F.Vernadat       A334       0035/G.IND
+
+Management                                     Fender           A335       0036/G.IND
+
+Processus et methodes logistiques              Terrier          A336       0037/G.IND
+
+Systemes de production et de logistique        H. Molet         A337       0038/G.IND
+
+Pratique de la gestion des stocks              Mocellin         A338       0039/G.IND
+
+dans la chaine logistique                      G. Lasnier       A339       0040/G.IND
+
+operationnelle                                 J. Phelizon      A340       0041/G.IND
+
+Mettre en oeuvre une GMAO                      M.Frederic       A341       0042/G.IND
+
+Le manager et l'environnement                  A.Moroncini      A343       0044/G.IND
+
+Gestion de la qualite la norme Iso             C. Jambart       A344       0045/G.IND
+
+AMDEC                                          G. Landy         A345       0046/G.IND
+
+Les plans d'experiences                        R. Linder        A346       0047/G.IND
+

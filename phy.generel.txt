@@ -1,0 +1,215 @@
+
+titre                                            auteur           edition    code
+_____________________________________________________________________________________
+
+Hydrodynamique Physique                          MARC,F           A2008     0008/PHY
+
+                                                 MARCELO
+Physique Generale 2, Champs et Ondes             ALONSO           A2009     0055/PHY
+
+                                                 MARCELO
+Physique generale 2- Champs et Ondes             ALONSO           A2010     0057/PHY
+
+                                                 JOSE PHILLIPE
+Relativite, Fondements et Applications           PEREZ            A2011     0058/PHY
+
+Incetutides et Analyse des Erreurs dans les
+Mesures Physiques                                JHON TAYLOR      A2012     0059/PHY
+
+Incertitudes et Analyse des erreurs dans les
+Mesures physiques                                  JOHN TAYLOR    A2013     0060/PHY
+
+                                                   FREDERICK
+Cours de Physique 5, Physique statistique          REIF           A2014     0061/PHY
+
+                                                   FREDERICK
+Cours de Physique 5, Physique statistique          REIF           A2015     0062/PHY
+
+                                                   ALBERT
+La Theorie de la Relativite restreinte et generale EINSTEIN       A2016     0063/PHY
+
+                                                   ARNAUD
+Best of Physique, les Meilleurs Sujet de Concours SCHMITTBUHL     A2017     0064/PHY
+
+Best of Physique , les Meilleurs Sujets de         ARNAUD
+Concours                                           SCHMITTBUHL    A2018     0065/PHY
+
+                                                   HORST
+Toute la Physique                                  STOCKER        A2019     0068/PHY
+
+                                                   HORST
+Toute la Physique                                  STOCKER        A2020     0069/PHY
+
+                                                   PATRICK
+Montage de Physique                                CHARMONT       A2021   0070/PHY
+
+                                                   PATRICK
+Lecons de Physique                                 CHARMONT       A2022   0071/PHY
+
+                                                   Didier
+                                                   BOISSELIER,
+Le soudage laser                                   Olivier..        A2023   0096/PHY
+
+                                                   Didier
+                                                   BOISSELIER,
+Le soudage laser                                   Olivier..        A2024   0097/PHY
+
+
+                                                   Didier
+                                                   BOISSELIER,
+Le soudage laser                                   Olivier..        A2025   0098/PHY
+
+                                                   Didier
+                                                   BOISSELIER,
+Le soudage laser                                   Olivier..        A2026   0099/PHY
+
+                                                   Didier
+                                                   BOISSELIER,
+Le soudage laser                                   Olivier..        A2027   0100/PHY
+
+                                                   Didier
+                                                   BOISSELIER,
+Le soudage laser                                   Olivier..        A2028   0101/PHY
+
+Comment je vois le monde                            Albert Einstein A2029   0102/PHY
+
+Cours de physique 5,Physique Statistique           BERKELEY         A2030   0124/PHY
+
+Cours de physique 5,Physique Statistique           BERKELEY         A2031   0125/PHY
+
+Compact Physique (cours et exercice corriges PC-
+PC*-PSI                                            ZANANIRI         A2032   0126/PHY
+
+                                                   PATRICK
+Agregation des Sciences Physiques Option           CHARMONT         A2033   0127/PHY
+
+Physique -Leçons de Physique
+Agregation des Sciences Physiques Option           PATRICK
+Physique -Lecons de Physique                       CHARMONT         A2034    0128/PHY
+
+                                                   ARNAUD
+Best of Physique, les Meilleurs Sujet de Concours  SCHMITTBUHL      A2035    0129/PHY
+
+                                                   ARNAUD
+Best of Physique, les Meilleurs Sujet de Concours  SCHMITTBUHL      A2036    0130/PHY
+
+                                                   MARCELO
+Physique generale 2- Champs et Ondes               ALONSO           A2037    0131/PHY
+  
+Physique tout en un 1ere Annee                     Marie noel Sanz  A2038    0132/PHY
+
+                                                   VINCENT
+PHYSIQUE 1 ANNE - 2 ANNEE PC                       DEMERY           A2039   0147/PHY
+
+                                                   JEAN-MARIE
+EXERCICES PROBLEMES PHYSIQUE                       BREBEC           A2040   0149/PHY
+
+INTRODUCTION A LA PHYSIQUE DES
+PARTICULES                                         Robert Zitoun    A2041   0158/PHY
+
+                                                   M. BOUNHAR,
+PHYSIQUE RAPPELES DE COURS                         M. SEMLALI       A2042   0159/PHY
+
+                                                   JEAN-MARIE
+LE RADAR THEORIE ET PRATIQUE                       COLIN            A2043   0169/PHY
+
+GENIE ENERGETIQUE INGENIERIE DES                   MICHEL
+TURBOMACHINES                                      PLUVIOSE         A2044   0170/PHY
+
+INTRODUCTION A LA RELATIVITE GENERALE              jean hladik      A2045   0172/PHY
+
+                                               LIONEL
+LE FORMULAIRE PCSI PTSI PC                    PORCHERON             A2046   0183/PHY
+
+PHYSIQUE EXERCICES. PC-PC*                    A.COLIN               A2047   0196/PHY
+
+SYSTEME D.PHYSIQUE MPSI , PCSI , PTSI         G.AMBERT              A2048   0199/PHY
+
+LES NOUVAUX PRECIS BREAL PHYSIQUE
+EXERCICES MP                                  J.BERGUA              A2049   0202/PHY
+
+LES NOUVAUX PRECIS BREAL PHYSIQUE
+EXERCICES MPSI                                J.BERGUA              A2050   0203/PHY
+
+EXERCICES ET PROBLEMES PHYSIQUE 1ER
+MPSI- PCSI- PTSI                              J.M.BREBEC            A2051   0206/PHY
+
+LES NOUVAUX PRECIS BREAL PHYSIQUE
+EXERCICES PSI                                 J.BERGUA              A2052   0209/PHY
+
+LES NOUVAUX PRECIS BREAL PHYSIQUE
+EXERCICES PC                                  J.BERGUA              A2053   0214/PHY
+
+PHYSIQUE TOUT LE PROGRAMME                    Jerome MAJOU /
+PCSI.MPSI.PTSI                                F. BOREL              A2054   0215/PHY
+
+LES NOUVAUX PRECIS BREAL PHYSIQUE
+EXERCICES PCSI                                J.BERGUA              A2055   0222/PHY
+
+LES NOUVAUX PRECIS BREAL PHYSIQUE
+EXERCICES PT                                  J.BERGUA              A2056   0223/PHY
+
+TOUTE LA PHYSIQUE EN PCSI 1ere PERIODE
+                                              CH,FRERE              A2057   0232/PHY
+
+
+                                              J,PIERRE
+PHYSIQUE 2e PARTIE 1ere annee de PREPAS DUBARRY-
+SCIENTIFIQUE                                  BARBE                 A2058   0233/PHY
+
+
+HYDRAULIQUE ET HYDROLOGIE 2eme edition, S,    BENNIS                A2059   0244/PHY
+
+
+LES MILLES ET UNE QUESTIONS PHYSIQUE Christian
+EN PREPA                                      GARING                A2060   0247/PHY
+
+PHYSIQUE MPSI-PTSI                            M,LORRE               A2061   0248/PHY
+
+Les 100 exercices-types de physique 1re annee
+MPSI, PCSI, PTSI                              Severine Bagard       A2062   0265/PHY
+
+Probleme de Physique 2eme annee               Chabanol              A2063   0266/PHY
+
+PHYSIQUE RESUME DE COURS EN FICHES            VINCENT
+MPSI MP                                       DEMERY                A2064   0281/PHY
+
+PHYSIQUE RESUME DE COURS EN FICHES            VINCENT
+MPSI MP                                       DEMERY          A2065   0282/PHY
+
+PHYSIQUE 1ere ANNEE - 2eme ANNEE PC           V,DEMERY        A2066   0287/PHY
+
+LE FORMULAIRE MPSI MP 3e EDITION              L,PROCHERON     A2067   0288/PHY
+
+H PREPA EXERCICES ET PROBLEMES                JEANS MARIE
+PHYSIQUE 2 eme ANNEE MP-PC-PSI-PT             BREBEC          A2068   0290/PHY
+
+H PREPA TOUT EN UN PHYSIQUE 1ere ANNEE R,NOEL / JEANS
+MPS / PCSI / PTSI                             MARIE BREBEC    A2069   0292/PHY
+
+EXERCICES ET PROBLEMES PHYSIQUE 1ere R,NOEL / JEANS
+ANNEE MPSI-PCSI-PTSI                          MARIE BREBEC    A2070   0295/PHY
+
+                                              C,ORSINI /
+H PREPA EXERCICES ET PROBLEMES                JEANS MARIE
+PHYSIQUE 1ere ANNEE MPSI-PCSI-PTSI            BREBEC          A2071   0301/PHY
+
+PHYSIQUE TOUT EN UN 1ere ANNEE MPSI-          M,NOELLE
+PCSI-PTSI 3 EDITION                           SANZ            A2072   0302/PHY
+
+CAP PREPA PHYSIQUE MPSI-PCSI-PTSI             J,PEREZ         A2073   0316/PHY
+
+PLUS DE 500 EXERCICES CORRIGES
+ESSENTIELS DE PHYSIQUE +100 PLANCHES
+D'ORAL MP-PC-PSI                              D,BERNARD       A2074   0317/PHY
+
+PREPAS SCIENCES PHYSIQUE PT PT*               L,VIDAL         A2075   0322/PHY
+
+Turbomachines hydrauliques choix illustre de
+realisations marquantes
+                                              P. HENRY        A2076   0332/PHY
+
+From Clockwork to Crapshoot : A History of    ROGER G.
+Physics                                       NEWTON          A2077   0336/PHY
+
+

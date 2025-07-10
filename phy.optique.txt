@@ -1,0 +1,78 @@
+
+titre                                                           auteur            edition     code
+_____________________________________________________________________________________________________
+
+                                                                HUBERT
+Optique Geometrique et Ondulatoire ; 98 Problemes resolus       LUMBROSO            A2120   0072/PHY
+
+                                                                JEAN PIERRE
+Optique: 83 Exercices                                           FAROUX               A2121   0073/PHY
+
+                                                                JOSE PHILLIPE
+Optique : Fondements et Applications avec 250 Exercices         PEREZ                A2122   0074/PHY
+
+Optique MP ,PC, PSI , PT                                        P,BRENDERS           A2123   0075/PHY
+
+                                                                JEAN PIERRE
+Optique: 83 Exercices et Problemes corrigès ,,,                 FAROUX               A2124   0076/PHY
+
+                                                                HUBERT
+Optique Geometrique et Ondulatoire ; 98 Problemes resolus,,,    LUMBROSO             A2125   0077/PHY
+
+Optique ondulatoire : 2eme Annee MP -MP -PC ,,,                 J,M BREBEC           A2126   0080/PHY
+
+                                                                 Jean-Paul
+Cours de physique optique : Cours et exercices corriges         Parisot              A2127   0107/PHY
+
+                                                                JOSE PHILLIPE
+Optique : Fondements et Applications avec 250 Exercices         PEREZ                A2128   0140/PHY
+
+                                                                Jose-Philippe
+                                                                Perez et Eric
+Optique : Fondements et applications                            Anterrieu            A2129   0141/PHY
+
+                                                                Jean-Paul
+                                                                Parisot,
+Cours de physique optique : Cours et exercices corriges         SILVIE               A2130   0144/PHY
+
+                                                                JOSE-PHILIPPE
+OPTIQUE FONDEMENTS ET APPLICATIONS                              PERZ                 A2131   0151/PHY
+
+                                                                J.-L.QUEYREL,
+PRECIS DE PHYSIQUE OPTIQUE                                      J. MESPLEDE          A2132   0162/PHY
+
+                                                                JOELLE
+OPTIQUE EXERCICES CORIGES D'OPTIQUE                             SURREL               A2133   0174/PHY
+
+
+                                                                JEAN-PIERRE
+                                                                FAROUX,
+                                                                JACQUES
+OPTIQUE 83 EXERCICES ET PROBLEMES                               RENAULT              A2134   0182/PHY
+
+Optique moderne : Polarisation, lasers, fibres optiques 
+cours et exercices corriges                                     Florence Weil        A2135   0190/PHY
+
+LES NOUVAUX PRECIS BREAL PHYSIQUE OPTIQUE MP-PC -
+PSI - PT                                                        M.SAUZEIX            A2136   0195/PHY
+
+15 PROBLEMES D'OPTIQUE GEOMETTRIQUE ET
+D'ELECTROCIENETIQUE                                             L.JANNAUD            A2137   0200/PHY
+
+                                                                 Sebastien
+Mini manuel d'Optique geometrique                                  Moulinet          A2138   0253/PHY
+
+Optique Prepas MP-PC-PSI-PT 2eme Precis de Physique              J.MESPLEDE          A2139   0278/PHY
+
+Optique Prepas MP-PC-PSI-PT 2eme Precis de Physique                J.MESPLEDE        A2140   0279/PHY
+
+Optique Prepas MPSI-PCSI-PTSI 1er annee Precis de Physique         J.MESPLEDE        A2141   0280/PHY
+
+                                                                   J,PIERRE
+OPTIQUE ELECTROMAGNETISME EXERCICES ET                             DUBARRY-
+PROBLEMES CORRIGES                                                 BARBE             A2142   0320/PHY
+
+                                                                   Gérard Wastiaux
+                                                                   et Marcel-V
+La microscopie optique moderne                                     Locquin           A2143   0344/PHY
+

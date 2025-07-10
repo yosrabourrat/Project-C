@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1684405209 source:c:\users\yosra\onedrive\bureau\langage c\mini projet nv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+
+1684405209 source:c:\users\yosra\onedrive\bureau\mes études\langage c\mini projet nv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<time.h>
+

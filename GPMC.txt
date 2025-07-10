@@ -1,0 +1,9 @@
+
+titre                                                 auteur                              edition      code 
+_______________________________________________________________________________________________________________ 
+                                                 
+Science & Technologies Ceramiques                   Gilbert Fantozzi                       A099      0001/GPMC
+Corrosion et chimie des surfaces des metaux         Dieter LANDOLT                         A100      0002/GPMC
+Genie des procedes                                  Storck                                 A101      0003/GMPC
+Les traitements de l'eau.                           Claude Cardot                          A102      0004/GMPC
+GENI DES PROCEDE					  bhguty  		4152 		41200

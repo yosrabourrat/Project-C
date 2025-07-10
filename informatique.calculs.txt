@@ -1,0 +1,52 @@
+titre                                                                          auteur                        edition   code
+
+Methodes Mathematiques pour l'Informatique                                     jacques velu                  A806      0013/INF
+Introduction a la Calculabilite Cours et Execices ,,,                          PIERRE WOLPER                 A807      0014/INF
+INFORMATIQUE THEORIQUE                                                         N.H.XUONG                     A808      0172/INF
+MATHEMATIQUE POUR L'INFORMATIQUE                                               Christian CONTANT             A809      0201/INF
+Methodes mathematiques pour l'informatique                                     Jacques Velu                  A810      0211/INF
+THEORIE DES CODES COMPRESION CRYPTAGE CORRECTION                               J,GUILLAUME DUMAS             A811      0247/INF
+METHODES MATHEMATIQUES POUR L'INFORMATIQUE 4 EDITION                           J,VELU                        A812      0262/INF
+                                                                               Olivier Ridoux et Gilles
+Calculateurs, calculs, calculabilite - Livre+complements en ligne              Lesventes                     A813      0359/INF
+                                                                               Olivier Ridoux et Gilles
+Calculateurs, calculs, calculabilite - Livre+complements en ligne              Lesventes                     A814      0360/INF
+Informatique theorique : Problemes et exercices corriges                       Nguyen Huy Xuong              A815      447 /INF
+Informatique theorique : Problemes et exercices corriges                       Nguyen Huy Xuong              A816      448 /INF
+Informatique theorique : Problemes et exercices corriges                       Nguyen Huy Xuong              A817      449 /INF
+Maple, cours et applications : 1e et 2e annees toutes filieres                 Lionel Porcheron              A818      620 /INF
+Maple, cours et applications : 1e et 2e annees toutes filieres                 Lionel Porcheron              A819      621 /INF
+Maple, cours et applications : 1e et 2e annees toutes filieres                 Lionel Porcheron              A820      622 /INF
+                                                                               Olivier Ridoux et Gilles
+Calculateurs, calculs, calculabilite                                           Lesventes                     A821      658 /INF
+                                                                               Olivier Ridoux et Gilles
+Calculateurs, calculs, calculabilite                                           Lesventes                     A822      659 /INF
+                                                                               Olivier Ridoux et Gilles
+Calculateurs, calculs, calculabilite                                           Lesventes                     A823      660 /INF
+                                                                               Olivier Ridoux et Gilles
+Calculateurs, calculs, calculabilite                                           Lesventes                     A824      661 /INF
+                                                                               Olivier Ridoux et Gilles
+Calculateurs, calculs, calculabilite                                           Lesventes                     A825      662 /INF
+                                                                               Pierre Wolper                 A826      705 /INF
+Introduction à la calculabilite : Cours et exercices corriges
+Introduction à la calculabilite : Cours et exercices corriges                  Pierre Wolper                 A827      706 /INF
+                                                                               Jean-Bernard Merceille,Marc
+EXERCICES DE MAPLE. Calculs, traces, programmation SUP et SPE                  Peronnet                      A828      784 /INF
+Langages formels, calculabilite et complexite : Licence et Master de math ou
+d'info                                                                         Olivier Carton                A829      796 /INF
+L'oral : 14 colles en Maple : Exercices et problemes corriges, MPSI, PCSI,
+PTSI, MP, PSI, PC, PT                                                          Jean-Claude Leicknam          A830      807 /INF
+Maple, cours et applications : 1e et 2e annees toutes filieres                 Lionel Porcheron              A831      817 /INF
+Introduction à MATHEMATICA                                                     Jean-Christophe Culioli       A832      839 /INF
+Introduction à l'information quantique                                         Le Bellac, Michel             A833      848 /INF
+Premiers pas en maple. Introduction à l'utilisation du calcul formel en
+mathematiques et physique                                                      Fortin et Pomes               A834      900 /INF
+Langages formels, calculabilite et complexite : Licence et Master de math ou   Olivier Carton et Dominique
+d'info                                                                         Perrin                        A835      916 /INF
+Langages formels, calculabilite et complexite : Licence et Master de math ou   Olivier Carton et Dominique
+d'info                                                                         Perrin                        A836      917 /INF
+                                                                                                                       1002
+Aide-memoire MAPLE                                                             Albert Levine                 A837      /INF
+                                                                                                                       1017
+Introduction a Maple                                                           Albert Levine                 A838      /INF
+

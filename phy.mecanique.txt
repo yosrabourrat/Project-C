@@ -1,0 +1,247 @@
+
+titre                                                auteur            edition    code
+___________________________________________________________________________________________
+                                                     RAYMOND
+Mecanique Experimentale des Fluides                  COMOLET             A1834   0002/PHY
+
+                                                     DIDIER DES
+Mecanique des Fluides / Problemes resolus            JARDINS             A1835   0003/PHY
+
+                                                     HUBERT
+Mecanique des Fluides , 73 Problemes resolus         LUMBROSO            A1836   0004/PHY
+
+Mecanique des Fluides / 73Problemes resolus          H,LUMBROSO          A1837   0005/PHY
+
+                                                     SEBSTIEN
+Mecanique des Fluides -cours                         CANDEL              A1838   0006/PHY
+
+                                                     SEBASTIEN
+Mecanique des Fluides                                CANDEL              A1839   0007/PHY
+
+Le Cours de Physique de FEYNMAN, Mecanique
+quantique                                            FEYNMAN             A1840   0009/PHY
+
+Mecanique des Fuides, Problemes resolus avec         DIDIER DES
+rappels ,,,                                          JARDINS             A1841   0010/PHY
+
+                                                     ELIE
+Initiation a la Mecanique Quantique,                 BELORIZKY           A1842   0011/PHY
+
+Precis de Mecanique Quantique, cours et exercices
+,,,                                                   DANIEL CANET       A1843   0012/PHY
+
+Mecanique des Milieux continus , cours et exercices
+corriges                                              JEAN COIRIER       A1844   0013/PHY
+
+                                                      DIDIER DES
+Introduction a la Mecanique des Milieux Continus,,,,, JARDINS            A1845   0014/PHY
+
+                                                      LISE
+Mecanique Generale , Aide - Memoire                   LAMOUREUX          A1846   0015/PHY
+
+                                                      LISE
+Mecanique Generale, Aide -Memoire                     LAMOUREUX          A1847   0016/PHY
+
+Mecanique des Milieux continus, Aide -Memoire         JEAN COIRIER       A1848   0017/PHY
+
+Mecanique des Mileux continus , Aide -Memoire         JEAN COIRIER       A1849   0018/PHY
+
+                                                      CHARLES
+Cours de Physique 1, Mecanique                        KITTEL             A1850   0019/PHY
+
+                                                      CHARLES
+Cours de Physique 1, Mecanique                        KITTEL             A1851   0020/PHY
+
+                                                      JOSE PHILIPPE
+Mecanique fondements et applications                  PEREZ              A1852   0021/PHY
+
+                                                      YVES
+Mecanique des Solides                                 GRANJON            A1853   0022/PHY
+
+Cours de Physique Mecanique du point                  ALAIN GIBAUD       A1854   0023/PHY
+
+Mecanique des Solides et des Systemes                 BREBEC J,M         A1855   0024/PHY
+
+                                                      MICHEL
+Mecanique des solides, cours et exercices corriges COMBARNOUS            A1856   0025/PHY
+
+                                                      YVES
+Mecanique des Solides                                 GRANJON            A1857   0026/PHY
+
+Le Cours de Physique de FEYNMAN, Mecanique 1
+                                                      FEYNMAN            A1858   0027/PHY
+
+Mecanique des Systemes et des Milieux                 LUC
+deformables ,,,                                       CHEVALIER          A1859   0028/PHY
+
+Cours de Mecanique Quantique avec exercices ,,,, YVES AYANT              A1860   0029/PHY
+
+Mecanique du solide et des systemes 2e annee MP- Jean-Marie
+MP*/PC-PC*                                            Brebec             A1861   0106/PHY
+
+                                                       Sebastien
+Mecanique des fluides Cours                           Candel             A1862   0108/PHY
+
+Mecanique des Milieux continus , cours et exercices
+corriges                                              JEAN COIRIER       A1863   0110/PHY
+Construction mecanique - Transmission de
+puissance, tome 3                                      Francis Esnault   A1864   0111/PHY
+                                                      CHARLES
+Cours de Physique 1, Mecanique                        KITTEL             A1865   0116/PHY
+                                                      CHARLES
+Cours de Physique 1, Mecanique                        KITTEL             A1866   0117/PHY
+                                                      LISE
+Mecanique Generale, Aide -Memoire                     LAMOUREUX          A1867   0118/PHY
+                                                      LISE
+Mecanique Generale, Aide -Memoire                     LAMOUREUX          A1868   0119/PHY
+Mecanique des Milieux continus, Aide-memoire
+(cours et exercices corriges)                         JEAN COIRIER       A1869   0120/PHY
+                                                      Michel
+Introduction a la Mecanique Quantique                 LAMBERT            A1870   0121/PHY
+                                                      RAYMOND
+Mecanique Experimentale des Fluides                   COMOLET            A1871   0138/PHY
+
+Cours de Physique Mecanique du point                  ALAIN GIBAUD       A1872   0139/PHY
+
+                                                      Jean-Claude
+                                                      Boudenot et
+                                                      Gilles Cohen-
+Max Planck et les quanta                              Tannoudji          A1873   0143/PHY
+
+MECANIQUE DU SOLIDE ET DES SYSTYMES 2 JEAN-MARIE
+ANNE MP MP*                                         BREBEC               A1874   0148/PHY
+
+MECANIQUE DES FLUIDES 2 ANNEE PC-PC* PSI-JEAN-MARIE
+PSI*                                                BREBEC               A1875   0150/PHY
+
+                                                    CLAUDE
+MECANIQUE QUANTIQUE                                 ASLANGUL             A1876   0155/PHY
+
+                                                    Jean-Marie
+MECANIQUE DES FLUIDES 2 ANNEE                       Brebec               A1877   0156/PHY
+
+                                                    Pierre Agati
+MECANIQUE APPLIQUE                                  Frederic Lerouge     A1878   0157/PHY
+
+PRECIS DE PHYSIQUE MECANIQUE DES                    J.-L.QUEYREL,
+FLUIDES                                             J. MESPLEDE          A1879   0160/PHY
+
+                                                    SYLVIE
+MECANIQUE DU POINT MPSI PCSI                        DEVILLARD            A1880   0166/PHY
+                                                                         
+                                                    MOSTAFA
+                                                    FOURAR,
+MECANIQUE DES MILIEUX DEFORMABLES                   CLAUDE CH7ZE         A1881   0167/PHY
+                                                    francois
+SCIENCES INDUSTRIELLES MECANIQUE 1                  BRONSARD,
+ANNEE ( cinematique et statique)                    CLAUDE CHEZE         A1882   0168/PHY
+                                                    Celine Anthoine -
+PUISSANCE PREPA MECANIQUE DES FLUIDES guillaume
+PC-PSI                                              LEFEVRE              A1883   0180/PHY
+
+                                                    David Halliday,
+                                                    Robert Resnick,
+Physique 1. Mecanique 6e Edition .                  Jearl Walker         A1884   0184/PHY
+
+                                                    Albert Messiah,
+                                                    Roger Balian,
+                                                    Claude Cohen-
+                                                    Tannoudji, et
+                                                    Pierre-Gilles de
+Mecanique quantique, tome1                          Gennes                A1885  0187/PHY
+
+Mecanique quantique t.2                             Cohen Tanoudji        A1886  0188/PHY
+Mecanique experimentale des fluides/ T1 Statique et
+dynamique des fluides non visqueux                  R.Comolet             A1887  0193/PHY
+Mecanique experimentale des fluides/ T2 dynamique
+des fluides reels Turbomachines                     R. Comolet        A1888   0194/PHY
+MECANIQUE DU SOLIDE                                 A.THIONNET        A1889   0197/PHY
+MECANIQUE MPSI-PCSI-PTSI                            J.M.BREBEC        A1890   0205/PHY
+LES NOUVAUX PRECIS BREAL PHYSIQUE
+MECANIQUE PCSI                                      C.CLERC           A1891   0207/PHY
+LES NOUVAUX PRECIS BREAL PHYSIQUE
+MECANIQUE MP- PC                                    P.CLERC           A1892   0213/PHY
+PHYSIQUE QUANTIQUE                                  M.LE BELLAC       A1893   0219/PHY
+MECANIQUE PCSI.MPSI.PTSI                            M.PULLICINO       A1894   0221/PHY
+EXERCICES RESOLUS DE MECANIQUE
+QUANTIQUE                                           J.P.FARGES        A1895   0224/PHY
+LES NOUVAUX PRECIS BREAL PHYSIQUE
+MECANIQUE DES FLUIDES PC- PSI                       L.JOLY            A1896   0225/PHY
+LES NOUVAUX PRECIS BREAL PHYSIQUE
+MECANIQUE PTSI                                      C.CLERC           A1897   0226/PHY
+MECANIQUE DES FLUIDES APPLIQUEE                     J,PAUL Beaudry    A1898   0234/PHY
+MECANIQUE FICHES, METHODES, EXERCICES
+CORRIGES                                            S,BAGARD          A1899   0235/PHY
+                                                    CHRISTIAN
+MECANIQUE DES FLUIDES PC-PC*-PSI-PSI*               FRERE             A1900   0236/PHY
+SCIENCES INDUSTRIELLES MECANIQUE 2eme
+ANNE MP-PC-PSI-PT-ATS                               CLAUDE CHEZE      A1901   0238/PHY
+                                                    Rene
+PHYSIQUE 1 MECANIQUE                                LAFRANCE          A1902   0239/PHY
+SIMULATION DES VIBRATIONS MECANIQUES                M,THOMAS          A1903   0243/PHY
+MECANIQUE DU SOLIDE PC-PC*PSI-PSI                   P,KREMPF          A1904   0246/PHY
+Mini manuel de Mecanique des fluides                Monavon           A1905   0249/PHY
+                                                    Michel Henry,
+Mini Manuel de Mecanique du point                   Nicolas Delorme   A1906   0250/PHY
+
+                                                    Yves Berthaud,
+                                                    Cecile Baron,
+                                                    Fatiha
+                                                    Bouchelaghem,
+                                                    Jean-Loic Le
+                                                    Carrou, Bruno
+                                                    Daunay, Eric
+Mini manuel de mecanique des solides                Sultan            A1907   0252/PHY
+
+                                                    Jose-Philippe
+Mecanique : Fondements et applications              Pérez             A1908   0257/PHY
+Introduction a la mecanique des materiaux et des
+structures                                         Michel Dupeux      A1909   0258/PHY
+
+Construction mecanique - Tome 2                    Francis Esnault    A1910   0259/PHY
+                                                   Pierre Agati,
+                                                   Gerard Delville,
+Mecanique du solide                                Yves Bremont       A1911   0264/PHY
+Mecanique des Fluides PC - PSI                     C.ANTHOINE         A1912   0272/PHY
+                                                   J.LOUIS
+Physique Mecanique MPSI - PTSI                     QUEYREL            A1913   0273/PHY
+Mecanique des Fluides Prepas PC - PSI 2eme
+annee Précis de Physique                           J.L.QUEYREL        A1914   0275/PHY
+Mecanique des Fluides Prépas PC - PSI 2eme
+annee Précis de Physique                           J.L.QUEYREL        A1915   0283/PHY
+MECANIQUE APPLIQUEE RESISTANCE DES
+MATERIAUX MECANIQUE DES FLUIDE                     P,AGATI            A1916   0285/PHY
+MECANIQUE APPLIQUEE RESISTANCE DES
+MATERIAUX MECANIQUE DES FLUIDE                     P,AGATI            A1917   0286/PHY
+CAMPUS LMD MECANIQUE FONDEMENTS ET                 J. PHILIPPE
+APPLICATIONS 6 eme EDITION                         PEREZ              A1918   0289/PHY
+MECANIQUE POUR INGENIEURS VOL 1
+STATIQUE
+                                                   BEER               A1919   0296/PHY
+MECANIQUE POUR INGENIEURS VOL 2
+DYNAMIQUE                                          BEER               A1920   0297/PHY
+MECANIQUE EXPERIMENTALE DES FLUIDES
+1ere ET 2eme cycles 5 EDITION T.1                  R,COMOLET          A1921   0300/PHY
+
+MECANIQUE GENERALE                                 S,POMMIER          A1922   0303/PHY
+
+MECANIQUE DE MILIEUX CONTINUS 3 EDITION            J COIRIER          A1923   0304/PHY
+
+MECANIQUE QUANTIQUE TOME 1                         A,MESSIAH          A1924   0305/PHY
+
+MECANIQUE DU SOLIDE APPLICATIONS
+INDUSTRIELLES 2 EDITION                            P,AGATI            A1925    0307/PHY
+MECANIQUE DU SOLIDE APPLICATIONS
+INDUSTRIELLES 2 EDITION                            P,AGATI            A1926    0308/PHY
+MECANIQUE DES STRUCTURES DU CALCUL
+ANALYTIQUE                                         C,CHEZE            A1927    0315/PHY
+
+MECANIQUE DU POINT                                 A,THIONNET         A1928    0319/PHY
+La cavitation : Mecanismes physiques et Aspects
+industriels                                        J , P, FRANC       A1929    0333/PHY
+                                                   FRANK M.
+Fluid Mechanics with Student CD                    WHITE              A1930    0337/PHY
+                                                   Jean-Pierre
+
+CAO en mecanique                                   Herbin,            A1933    0356/PHY
+

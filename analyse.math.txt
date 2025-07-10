@@ -1,0 +1,124 @@
+
+titre                                                                      auteur                         edition     code
+______________________________________________________________________________________________________________________________
+
+Best of Analyse, 1er annee                                                 BERNARD PARZYSZ                 A1742     0065/MAT
+Best of Analyse , 1ere annee                                               B,PARZYSZ                       A1743     0066/MAT
+Best of Analyse 1ere Annee                                                 BERNARD PARZYSZ                 A1744     0067/MAT
+Best of Analyse , 2eme annee                                               LAETITIA PAOLI                  A1745     0068/MAT
+Les Nouvaux Precis Breal Mathematique Analys PC                            D GUININ                        A1746     0069/MAT
+Best of Analyse 2eme Annee                                                 LAETITIA PAOLI                  A1747     0070/MAT
+Best of analyse , 2eme annee                                               LAETITIA PAOLI                  A1748     0071/MAT
+Best of Analyse , 2 eme Annee                                              LAETITIA PAOLI                  A1749     0072/MAT
+Analyse Numerique, une Approche mathematique                               MICHELLE SHATZMAN               A1750     0073/MAT
+Analyse Numerique une Approche Mathematique                                MICHELLE SHATZMAN               A1751     0074/MAT
+Introduction a l' Analyse Numerique Matricielle                            PHILIPPE G CIARLET              A1752     0075/MAT
+Introduction a l' Analyse Numerique                                        JEROME BASTIEN                  A1753     0076/MAT
+Analyse Numerique et equations                                             SERGE NICAISE                   A1754     0077/MAT
+Analyse Numerique et equations                                             SERGE NICAISE                   A1755     0078/MAT
+Analyse Numerique Matricielle Appliquee                                    PATRICK LASCAUX                 A1756     0079/MAT
+Analyse Numerique Matricielle Appliquee                                    PATRICK LASCAUX                 A1757     0080/MAT
+ Analyse et Analyse Numèrique                                              LUC JOLIVET                     A1758     0081/MAT
+Analyse de FOURIER et Applications, Exercices corriges                     ROBERT DALMASSO                 A1759     0082/MAT
+Analyse de FOURIER et applications ,exercices corriges                     ROBERT DALMASSO                 A1760     0083/MAT
+L'oral ,14Colles en Maple                                                  JEAN CLAUDE LEICKNAM            A1761     0084/MAT
+L' oral : 14 Colles en Maple                                               JEAN CLAUDE LEICKNAM            A1762     0085/MAT
+Cours d'analyse 3 equations differentielles ,,,                            SRISHTI, D                      A1763     0088/MAT
+Manuel de Mathematiques / Vol , 1                                          GERARD DEBEAUMARCHE             A1764     0089/MAT
+Exercices de Mathematiques ,,,                                             SERGE FRANCINOU                 A1765     0090/MAT
+Analyse 2 Cours et 600 Exercices corriges                                  JEAN MARIE MONIER               A1766     0091/MAT
+Analyse 2 Cours et 600 Exercices corriges                                  JEAN MARIE MONIER               A1767     0092/MAT
+Analyse MPSI Cours et 1000 Exercices Corriges                              JEAN MARIE MONIER               A1768     0093/MAT
+                                                                           Bernard Parzysz Annie
+Best of Analyse 1ere Annee Les meilleurs Sujets d'examen corriges          Parzysz                         A1769     0138/MAT
+                                                                           Bernard Parzysz Annie
+Best of Analyse 1ere Annee Les meilleurs Sujets d'examen corriges          Parzysz                         A1770     0139/MAT
+                                                                           Bernard Parzysz Annie
+Best of Analyse 1ere Annee Les meilleurs Sujets d'examen corriges          Parzysz                         A1771     0140/MAT
+                                                                           Bernard Parzysz Annie
+                                                                           Parzysz
+Best of Analyse 1ere Annee Les meilleurs Sujets d'examen corriges                                          A1772     0141/MAT
+                                                                           Bernard Parzysz Annie
+Best of Analyse 1ere Annee Les meilleurs Sujets d'examen corriges          Parzysz                         A1773     0142/MAT
+Analyse PCSI - PTSI (200ex, developpes 500ex, d'entrainement Rappel de
+cours)                                                                           Jean- Marie Monier        A1774     0143/MAT
+Analyse de FOURIER et applications, exercices corriges                           ROBERT DALMASSO           A1775     0174/MAT
+ANALYSE MPSI                                                                     JEAN-Marie Monier         A1776     0185/MAT
+PRECIS DE MATHEMATIQUE EXERCICE ET PROBLEME RESOLUS                              C. DEGRAVE, D. DEGRAVE    A1777     0191/MAT
+                                                                                 C. DEGRAVE, D. DEGRAVE,
+PRECIS DE MATHEMATIQUE ANALYSE 1                                                 H. MULLER                 A1778     0194/MAT
+Les Nouvaux Precis Breal Mathematique Analys PC                                  D GUININ                  A1779     0200/MAT
+cours de Mathematiques FONCTIONS REELLES D'UNE VARIABLE REELLE 4 A. DONEDDU                                A1780     0208/MAT
+Introduction a l'analyse numerique matricielle et a l'optimisation               Philippe G. Ciarlet       A1781     0210/MAT
+Introduction a l'analyse numerique des equations aux derivees partielles         P-ARaviart, J-M Thomas    A1782     0211/MAT
+Analyse numerique matricielle appliquee a l'art de l'ingenieur, tome 2: Methodes
+iteratives                                                                        P. Lascaux, R.Théodor    A1783     0212/MAT
+MANUEL DE MATHEMATIQUES MP/SI - PC/SI                                            G.DEBEAUMARCHE            A1784     0214/MAT
+PROBLEMES D'ANALYSE 3                                                            J.KACZOR                  A1785     0215/MAT
+INTRODUCTION A L'ANALYSE NUMERIQUE DES EQUATIONS AUX
+DERIVEES                                                                         P.A.RAVIART               A1786     0218/MAT
+PROBLEMES D'ANALYSE 1                                                            W.J.KACZOR                A1787     0224/MAT
+PROBLEMES D'ANALYSE 2                                                            W.J.KACZOR                A1788     0225/MAT
+ANALYSE PC-PSI-PTCOURS ET800 EXERCICES CORRIGES                                  J.M.MONIER                A1789     0226/MAT
+LES NOUVAUX PRECIS BREAL MATHEMATIQUES ANALYSE PSI                               D.GUININ                  A1790     0228/MAT
+LES MATHS EN TETE ANALYSE                                                        X.GOURDON                 A1791     0232/MAT
+METHODES NUMERIQUES ITERATIVES                                                   CL.BREZINSKI              A1792     0233/MAT
+ANALYSER DE FOURIER DANS LES ESPACES FONCTIONNELS                                CH.M.MARLE                A1793     0234/MAT
+ANALYSE NUMERIQUE ET EQUATIONS DIFFERENTIELLES                                   J.P.DEMAILLY              A1794     0235/MAT
+Analyse : Rappels de cours, Exercices et problemes avec corriges detailles,
+Fiches de revision                                                               M.GAULTIER                A1795     0237/MAT
+Precis de Mathématiques Analyse-Géométrie Prépas MP                              D. Guinin - B. JOPPIN     A1796     0243/MAT
+Mathematiques : Cours d'analyse - Licence L1 et L2 - 1re et 2e année
+d'université                                                                     ANTOINE RAUZY             A1797     0245/MAT
+MATHEMATIQUES ANALYSE-FONCTIONS DE LA VARIABLE REELLE                            N,VERDIER                 A1798     0248/MAT
+ANALYSE COURS ET EXERCICE CORRIGES                                               J,VAUTHIER                A1799     0249/MAT
+Maths. Elements d'analyse / Calcul integral et differentiel cours, exercices et   Bouchaïd RADI - Abdelkhalak
+problemes de synthese corriges.                                                   EL HAMI                       A1800   0251/MAT
+                                                                                  El Haj Laamri, Philippe
+Tous les exercices d'Analyse PC-PSI                                               Chateaux…                     A1801   0255/MAT
+                                                                                  El Haj Laamri, Philippe
+Tous les exercices d'Analyse MP                                                   Chateaux…                     A1802   0258/MAT
+Analyse MP                                                                        Jean-Marie Monier             A1803   0259/MAT
+Analyse MPSI                                                                      Jean-Marie Monier             A1804   0261/MAT
+Analyse PC-PSI-PT                                                                 Jean-Marie Monier             A1805   0262/MAT
+Analyse PCSI - PTSI                                                               Jean-Marie Monier             A1806   0268/MAT
+Analyse 2 MP - PC - PSI                                                           S.DESREUX                     A1807   0273/MAT
+INTRODUCTION A L'ANALYSE NUMERIQUE MATRICIELLE ET A
+l'OPTIMISATION                                                                    PH,CIARLET                    A1808   0277/MAT
+ANALYSE MATHEMATIQUE MP/ MP *PSI/PSI*PC/PC*PT/PT                                  O,RODOT                       A1809   0279/MAT
+ANALYSE MPSI 5 eme EDITION                                                        J,MARIE MONIER                A1810   0284/MAT
+EXERCICES ET PROBLEMES MATHEMATIQUES POUR L'INGENIEUR                             Y,LEROYER                     A1811   0302/MAT
+Precis de mathematiques, tome 7 : Analyse et geometrie, Prepas MP - 2e            Daniel Guinin et Bernard
+annee                                                                             Joppin                        A1812   0326/MAT
+Precis de mathematiques, tome 7 : Analyse et geometrie, Prepas MP - 2e            Daniel Guinin et Bernard
+annee                                                                             Joppin                        A1813   0327/MAT
+Precis de mathematiques, tome 7 : Analyse et geometrie, Prepas MP - 2e            Daniel Guinin et Bernard
+annee                                                                             Joppin                        A1814   0328/MAT
+Exercices corriges d'analyse, tome 2                                              D. Alibert                    A1815   0335/MAT
+                                                                                  Françoise Lamnabhi-
+Analyse des systemes non lineaires                                                Lagarrigue                    A1816   0348/MAT
+introduction a l'analyse symbolique                                               MAURICE PARODI                A1817   0358/MAT
+Mathematiques , analyse 2 : calcul integral - equations differentielles           P. Thuillier et J.C. Belloc   A1818   0364/MAT
+Analyse, mathematiques superieures et premiers cycles scientifiques : exercices
+corriges, conseils                                                              Clenet                          A1819   0375/MAT
+Analyse, mathematiques superieures et premiers cycles scientifiques : exercices
+corriges, conseils                                                              Clenet                          A1820   0376/MAT
+Mathematiques, analyse et programmation: Cours et exercices corrigés            Van Hiep Tran                   A1821   0379/MAT
+Exercices de topologie et d'analyse Tome 3 : Fonctions differentiables et
+integrales multiples                                                            G Flory                         A1822   0381/MAT
+Analyse : Mathematiques pour economistes                                        Vincent Jalby                   A1823   0383/MAT
+Exercices de topologie et d'analyse Tome 2 : Fonctions D'une variable reelle    Flory                           A1824   0392/MAT
+Exercices de topologie et d'analyse Tome 2: Fonctions D'une variable reelle     Flory                           A1825   0393/MAT
+Exercices de topologie et d'analyse Tome 1 : TOPOLOGIE                          Flory                           A1826   0394/MAT
+TOPOLOGIE ANALYSE Classes preparatoires et universite TOME3 exercices
+avec solutions                                                                  Flory                           A1827   0395/MAT
+Fonction de plusieurs variables et integration mathematiques                    Francis Delmer                  A1828   0400/MAT
+Analyse PSI, PC, PT, 2e annee : 150 exercices developpes, 600 exercices
+d'entrainement, rappels de cours                                                Jean-Marie Monier               A1829   0404/MAT
+Introduction a l'analyse numérique : Applications sous Matlab                   Jérôme Bastien                  A1830   0405/MAT
+                                                                                Daniel Guinin et Bernard
+Mathematiques, tome 4 : Analyse, PCSI                                           Joppin                          A1831   0408/MAT
+                                                                                Claude Zuily et Hervé
+Elements d'analyse pour l'agregation                                            Queffélec                       A1832   0413/MAT
+                                                                                Claude Zuily et Hervé
+Elements d'analyse pour l'agregation                                            Queffélec                       A1833   0414/MAT

@@ -1,0 +1,76 @@
+
+titre                                                                        auteur                              edition    code
+___________________________________________________________________________________________________________________________________
+
+Architecteure de l'Ordinateur /Cours et Exercices                            ANDREW TANENBAUM                    A630      0015/INF
+ARCHITECTURE DES ORDINATEURS                                                 JEAN-JACQUES SCHWARZ                A631      0119/INF
+ARCHITECTURE DE L'ORDINATEUR                                                 NICHOLAS P. CARTER                  A632      0130/INF
+ARCHITECTURE DES SYSTEMES SUR PUCE                                           AMMAR ATTAOUI                       A633      0147/INF
+                                                                             Emmanuel Lazard, 1 ere edition,
+Architecture de l'ordinateur Synthese de cours et exercices corriges         Aout 2006                           A634      0163/INF
+Architecteure de l'Ordinateur /Cours et Exercices                            ANDREW TANENBAUM                    A635      0164/INF
+ARCHITECTURE ET TECHNOLOGIE DES ORDIATEURS 4 EDITION                         P,ZANELLA                           A636      0250/INF
+Architecture de l'ordinateur                                                 Andrew Tanenbaum                    A637      0303/INF
+Architecture de l'ordinateur                                                 Andrew Tanenbaum                    A638      0304/INF
+Technologie des ordinateurs et des reseaux - Cours et exercices corriges     Pierre-Alain Goupille               A639      0320/INF
+Technologie des ordinateurs et des reseaux - Cours et exercices corriges     Pierre-Alain Goupille               A640      0321/INF
+Architecture et technologie des ordinateurs                                  Paolo Zanella et Yves Ligier        A641      0327/INF
+Architecture et technologie des ordinateurs                                  Paolo Zanella et Yves Ligier        A642      0328/INF
+Organisation et architecture de l'ordinateur, 6e edition                     William Stallings                   A643      0386/INF
+Architecture de l'ordinateur                                                 Nicholas P. Carter                  A644      417 /INF
+Architecture de l'ordinateur                                                 Nicholas P. Carter                  A645      418 /INF
+Architecture de l'ordinateur                                                 Nicholas P. Carter                  A646      419 /INF
+ARCHITECTURE DES ORDINATEURS, UNE APPROCHE
+QUANTITATIVE. 2EME EDITION                                                   David Patterson                     A647      450 /INF
+ARCHITECTURE DES ORDINATEURS, UNE APPROCHE
+QUANTITATIVE. 2EME EDITION                                                   David Patterson                     A648      451 /INF
+                                                                             Andrew Tanenbaum , Jean-Alain
+                                                                             Hernandez
+Architecture de l'ordinateur : Cours et exercices                                                                A649      458 /INF
+                                                                             Andrew Tanenbaum , Jean-Alain
+Architecture de l'ordinateur : Cours et exercices                            Hernandez                           A650      459 /INF
+                                                                             Andrew Tanenbaum , Jean-Alain
+Architecture de l'ordinateur : Cours et exercices                            Hernandez                           A651      460 /INF
+Microprocesseurs du CISC au RISC                                             Henri Lilen                         A652      522 /INF
+Architecture des machines et des systemes informatiques                      Cazes and Joelle Delacroix          A653      531 /INF
+Architecture des machines et des systemes informatiques                      Cazes and Joelle Delacroix          A654      532 /INF
+Architecture des machines et des systemes informatiques                      Cazes and Joelle Delacroix          A655      533 /INF
+Architecture des machines et des systemes informatiques                      Cazes and Joelle Delacroix          A656      534 /INF
+Architecture des machines et des systemes informatiques                      Cazes and Joelle Delacroix          A657      535 /INF
+Architecture des machines et des systemes informatiques                      Cazes and Joelle Delacroix          A658      536 /INF
+Architecture des machines et des systemes informatiques                      Cazes and Joelle Delacroix          A659      537 /INF
+Architecture des machines et des systemes informatiques                      Cazes and Joelle Delacroix          A660      538 /INF
+Architecture Des Machines et Des Systemes Informatiques (Cours et
+Exercices Corriges)                                                          Cazes and Joelle Delacroix          A661      539 /INF
+Architecture Des Machines et Des Systemes Informatiques (Cours et
+Exercices Corriges)                                                          Cazes and Joelle Delacroix          A662      540 /INF
+Technologie des ordinateurs et des reseaux - Cours et exercices corriges     Goupille                            A663      541 /INF
+Technologie des ordinateurs et des reseaux - Cours et exercices corriges     Goupille                            A664      542 /INF
+Technologie des ordinateurs et des reseaux - Cours et exercices corriges     Goupille                            A665      543 /INF
+Architecture des ordinateurs : Interfaces et peripheriques, cours avec
+exercices corriges
+                                                                             Philippe Darche                     A666      585 /INF
+Architecture des ordinateurs : Interfaces et peripheriques, cours avec
+exercices corriges                                                           Philippe Darche                     A667      586 /INF
+Architecture des ordinateurs : Interfaces et peripheriques, cours avec
+exercices corriges                                                           Philippe Darche                     A668      587 /INF
+Architecture des ordinateurs : Interfaces et peripheriques, cours avec
+exercices corriges                                                           Philippe Darche                     A669      588 /INF
+Architecture et micro-architecture des processeurs                           Bernard Goossens                    A670      790 /INF
+Architecture et technologie des ordinateurs : Cours et exercices resolus     Paolo Zanella                       A671      800 /INF
+Circuits logiques programmables : Memoires PLD, CPLD et FPGA,
+informatique industrielle                                                    Alexandre Nketsa                    A672      826 /INF
+Circuits logiques programmables : Memoires PLD, CPLD et FPGA,
+informatique industrielle                                                    Alexandre Nketsa                    A673      827 /INF
+Circuits logiques programmables : Memoires PLD, CPLD et FPGA,
+informatique industrielle                                                    Alexandre Nketsa                    A674      828 /INF
+Architecture des machines et des systemes informatiques : Cours et
+exercices corriges                                                           Cazes et Delacroix                  A675      829 /INF
+Architectures logicielles et materielles - Cours, etudes de cas et exercices
+corriges                                                                     Collectif, Jean-Charles Fernandez   A676      830 /INF
+Architecture des machines et des systemes informatiques : Cours et
+exercices corriges                                                           Cazes et Delacroix                  A677      835 /INF
+Organisation et architecture de l'ordinateur, 6e edition                     William Stallings                   A678      836 /INF
+Architecture de l'ordinateur                                                 Andrew Tanenbaum
+                                                                                                                 A679      891 /INF
+

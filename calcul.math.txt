@@ -1,0 +1,17 @@
+
+titre                                                   auteur                     edition     code
+_______________________________________________________________________________________________________
+
+Exercices de Calcul integral avec rappels de cours    JOEL BONOIST                  A1591     0049/MAT
+Calcul Differentiel pour la Licence                   PAUL DONATO                   A1592     0050/MAT
+Geometrie et Calcul Differentiel sur les varietes     DANIEL FREDON                 A1593     0051/MAT
+Exercices de Calcul Integral avec rapels de cours     JOEL BONOIST                  A1594     0052/MAT
+Le Calcul : Precis d'algebre et d'arithmetique        Mathieu Scavennec             A1595     0111/MAT
+Exercices de calcul integral(Avec Rappel de cours)    Joel Benoist Alain Salinier   A1596     0134/MAT
+CALCUL DIFFERENTIEL ET INTEGRAL                       Francois Cott-Emard           A1597     0197/MAT
+INTRODUCTION AU CALCUL SCIENTIFIQUE
+PAR LA PRATIQUE                                       L.DANAILA                     A1598     0285/MAT
+                                                      GILLES CHARRON 
+CALCUL DIFFERENTIEL                                   PIERRE PARENT                 A1599     0307/MAT
+Calcul formel avec MuPAD : initiation aux
+mathematiques                                         F.Maltey                      A1600     0406/MAT

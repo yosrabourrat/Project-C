@@ -1,0 +1,51 @@
+
+titre                                                auteur           edition     code
+_________________________________________________________________________________________
+  
+                                                     Charles Kittel,
+                                                     Julie Dion, Maud
+                                                     Gicquel, et
+Physique de l'etat solide : Cours et problemes       Bertrand Vilquin    A2109     0137/PHY
+
+                                                     G. Pluvinage, V.
+Resistance des materiaux - Exercices et solutions    Sapunov             A2110     0191/PHY
+
+RESISTANCE DES MATERIAUX                             P.AGATI             A2111     0198/PHY
+
+                                                     Michael F.
+                                                     Ashby, David R.
+                                                     H. Jones, Michel
+                                                     Dupeux, Joel
+Materiaux - Tome 2 - Microstructures,                yves Brechet       A2112     0262/PHY
+mise en oeuvre Courbon, 
+et conception                                                           
+
+                                                     Serge Etienne,
+                                                     Laurent David,
+                                                     Emilie Gaudry,
+                                                     Philippe
+                                                     Lagrange, Julian
+                                                     Ledieu, Jean
+Les materiaux de A a Z                               Steinmetz        A2113     0263/PHY
+
+                                                     Pierre Agati,
+                                                     Frederic
+                                                     Lerouge, Marc
+Resistance des materiaux                             Rossetto         A2114     0267/PHY
+
+                                                     Michael F.
+                                                     Ashby, David R.
+Materiaux - Tome 1- Proprietes, applications et      H. Jones,
+conception                                           Elsevier         A2115     0269/PHY
+
+MATERIAUX PROPRIETES APPLICATIONS ET
+CONCEPTION 3 EDITION                                 M,ASHBY          A2116     0293/PHY
+
+MATERIAUX 2 MICROSTRUCTURES MISE EN
+OEUVRE ET CONCEPTION                                  M,ASHBY          A2117     0298/PHY
+
+MATERIAUX 1 COURS ET EXERCICE
+D'APPLICATION 3 EDITION                              F,ASHBY          A2118     0325/PHY
+
+Formulaire de Resistance des Materiaux               Youde Xiong      A2119     0342/PHY
+

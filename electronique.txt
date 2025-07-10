@@ -1,0 +1,287 @@
+
+titre                                                auteur           edition    code
+_______________________________________________________________________________________
+
+Automatique continue et echantillonnee : IUT
+genie electrique,                                    Pascal Clerc       A194   0092/AUT
+
+Electronique Analogique Cours avec Problemes         STEPHANE
+resolu                                               VALKOV             A195   0002/ELE
+
+Opto electronique /cours et exercices corriges       E,ROSENCHER        A196   0003/ELE
+
+Electronique de Puissance ,les Fonctions de
+Base                                                 GUY SEGUIER        A197   0004/ELE
+
+Electronique de Puissance / les Fonctions de
+base                                                 GUY SEGUIER        A198   0005/ELE
+Electronique de Puissance, les Fonctions de
+base                                                 GUY SEGUIER        A199   0006/ELE
+
+Exercices d'Electronique 110 Ex ,et problemes        MICHEL
+corriges                                             FOURRIER           A200   0007/ELE
+
+Electronique de Puissance/ les Fonctions de base
+                                                     GUY SEGUIER        A201   0008/ELE
+
+Exercices d' Electronique 2- fonctions principales   JEAN MARC
+                                                     POITEVIN           A202   0009/ELE
+                                                     JEAN MARC
+Exercices d' Electronique 1                          POITEVIN           A203   0010/ELE
+
+Exercices et problemes d'electrotechnique            J. P. Six P.
+industrielle                                         VANDERPLANQUE      A204   0012/ELE
+
+                                                     Robert Faure/
+Precis de recherche operationnelle: Exercices        B,Lemaire
+d'application                                        C,Picouleau        A205   0013/ELE
+
+                                                     Guy SEGUIER
+Electrotechnique industrielle                        Francis NOTELET    A206   0014/ELE
+
+Electronique de Puissance, les Fonctions de
+Base,,,,,,                                           GUY SEGUIER        A207   0019/ELE
+
+                                                     JEAN MARC
+Exercices d' Electronique 1                          POITEVIN           A208   0020/ELE
+
+CONVERTISSEURS ET ELECTRONIQUE DE
+PUISSANCE                                            MICHEL PINARD      A209   0021/ELE
+
+                                                     C. Cimelli,R.
+TECHNICIEN EN ELECTRONIQUE                           Bourgeon           A210   0022/ELE
+
+POUR S'INTIER A L'ELECTRONIQUE LOGIQUE
+ET NUMERIQUE                                         YVES MERGY         A211   0023/ELE
+
+POUR S'INTIER A L'ELECTRONIQUE LOGIQUE
+ET NUMERIQUE                                         YVES MERGY         A212   0024/ELE
+
+CIRCUITS ET SYSTYMES ELECTRONIQUE                    JIMMIE J. CATHEY   A213   0025/ELE
+
+AIDE MEMOIRE COMPOSANTS
+ELECTRONIQES                                         Pierre Maye        A214   0026/ELE
+
+GENIE ELECTROTECHNIQUE                               D.F. WARNE         A215   0027/ELE
+
+GUIDE PRATIQUE DE L'ELECTRONIQUE                     R. BOURGEON        A216   0028/ELE
+
+                                                     A. DOMENACH,
+                                                     C. Mauclerc,
+GUIDE PRATIQUE DE L'ELECTROTECHNIQUE UFFREDI                            A217   0029/ELE
+
+GUIDE DU TECHNICIEN EN                               J.-C. Mauclerc,
+ELECTROTECHNIQUE                                     Aubert             A218   0030/ELE
+
+AIDE MIMOIRE ELECTROTECHNIQUE                        Pierre Maye        A219   0031/ELE
+
+                                                     Mohamed Said
+ELECTRONIQUE AMPLIFICATION, OSSILATION               ALAMI- Abdellatif
+, Commutation                                        CHAFIK             A220   0032/ELE
+
+                                                     J. C. C HAUVEAU,
+                                                     G.CHEVALIER, B.
+MEMOTECH ELECTRONIQUE                                Chevalier
+                                                                        A221   0033/ELE
+                                                     JEAN
+PROCESSEURS CONCERVOIR SON                           CHRISTOPHE
+MICROPROSSEUR                                        BUISSON            A222   0034/ELE
+
+Exercices et problemes d'electrotechnique            J. P. Six P.
+industrielle                                         VANDERPLANQUE      A223   0035/ELE
+
+Exercices d' Electronique 110 Ex ,et problemes       MICHEL
+corriges                                             FOURRIER           A224   0036/ELE
+
+Electronique Analogique Cours avec Problemes         STEPHANE
+resolu                                               VALKOV             A225   0037/ELE
+
+Principes et pratique de l'electronique/Tome 1 :     François de
+Calcul des circuits et fonctions                     Dieuleveult        A226   0038/ELE
+
+Principe d'electronique                              A. P. Malvino      A227   0039/ELE
+
+Electronique 2e annee PSI-PSI                        Jean Marie Brebec  A228   0040/ELE
+
+Initiation au microcontroleur 68HC11                 Michael Bairanzade A229   0041/ELE
+
+La liaison serie RS232 (+ CD-Rom) / Description
+technique et mise en oeuvre                          P. Andre           A230   0042/ELE
+
+INTRODUCTION A L' ELECTRONIQUE
+ANALOGIQUE                                           T.NEFFATI          A231   0043/ELE
+
+ELECTRONIQUE FONDEMENTS ET
+APPLICATIONS                                         J.PHILIPPE         A232   0044/ELE
+
+ELECTRONIQUE NUMERIQUE                               A.DEVEILLE         A233   0045/ELE
+ELECTRONIQUE ET ELECTRCIENETIQUE MPSI
+, PCSI , PTSI                                        R.BOURDIN          A234   0046/ELE
+
+ELECTRONIQUE MP- MP* _ PT- PT*                       D.MEIER            A235   0047/ELE
+
+LES OSCILLATEURS EN ELECTRONIQUE                     G.COUTURIER        A236   0048/ELE
+
+CIRCUITS ELECTRIQUES ET ELECTRONIQUES                F.MILSANT          A237   0049/ELE
+
+ELECTROTECHNIQUE ELECTRONIQUE DE
+POUISSANCE                                           F.MILSANT          A238   0050/ELE
+
+T.P D'ELECTROTECHNIQUE PAR SIMULATION                F.LEPLUS           A239   0051/ELE
+
+INTRODUCTION A L'ELECTRONIQUE
+ANALOGIQUE                                           T.NEFFATI          A240   0052/ELE
+
+ELECTRONIQUE 2E PSI-PSI*                             J.M BREBEC         A241   0053/ELE
+
+LES NOUVAUX PRECIS BREAL PHYSIQUE
+ELECTRONIQUE MP                                      L.DOUCHET          A242   0054/ELE
+
+ELECTRONIQUE                                         H.LUMBROSO         A243   0055/ELE
+
+ELECTROTECHNIQUE ELECTRONIQUE DE
+PUISSANCE                                            F.MILSANT          A244   0056/ELE
+
+AMPLIFICATEURS FONDAMENTAUX ET
+OPERATIONNELS                                        A.LANTZ            A245   0057/ELE
+
+FONDEMENTS D'ELECTRONIQUE SANS CD
+ROM                                                  TH. FLOYD          A246   0058/ELE
+
+ELECTRONIQUE ET ELECTROCINETIQUE 1 ere               DELPHINE           A247   0059/ELE
+INTRODUCTION AUX CIRCUITS INTEGRES                   Ahmed Riadh Baba-
+NUMERIQUES                                           Ali                A248   0060/ELE
+
+ELECTRONIQUE AMPLIFICATION-
+                                                     M,SAID ALAMI       A249   0061/ELE
+
+OSCILLATION-COMMUTATION
+MICRO CONTROLEURS                                    M,GHOMARI          A250   0062/ELE
+
+Convertisseurs et electronique de puissance          Pinard             A251   0063/ELE
+
+Conversion d'energie, Electrotechnique,
+Electronique de Puissance                            VALERIE LEGER      A252   0064/ELE
+ 
+Les oscillateurs en electronique                     G.COUTURIER        A253   0065/ELE
+
+Electronique et electrocinetique - 1ere annee
+MPSI,PCSI, PTSI                                      R. Bourdin         A254   0066/ELE
+
+AIDE MEMOIRE ELECTRONIQUE                            B. GRABOWSKI       A255   0067/ELE
+
+MAXI FICHES ELECTRONIQUE                             D, REANT           A256   0068/ELE
+
+BTS INDUSTRIELS ELECTRONIQUE ET
+COMMUNICATION                                        F,ALIN             A257   0069/ELE
+
+OPTOELECTRONIQUE 2 eme EDITION COURS
+ET EXERCICES CORRIGES                                B,VINTER           A258   0070/ELE
+
+INTRODUCTION A L'ELECTRONIQUE
+ANALOGIQUE                                           T,NEFFATI          A259   0071/ELE
+
+BTS INDUSTRIELS ELECTRONIQUE ET
+COMMUNICATION                                        C,BERGMANN         A260   0072/ELE
+
+H PREPA ELECTRONIQUE
+ELECTROCINETIQUE 1ere ANNEE MPSI - PCSI
+- PTSI                                               J,MARIE BREBEC     A261   0073/ELE
+
+H PREPA ELECTRONIQUE 2eme ANNEE PSI -
+PSI*                                                 J,MARIE BREBEC     A262   0074/ELE
+
+EXERCICES ET PROBLEMES ELECTRONIQUE                  Y,GRANJON          A263   0075/ELE
+
+PRINCIPES DES CIRCUITS ELECTRIQUES
+COURS ET EXERCICES CORRIGES                          D,DIXNEUF          A264   0076/ELE
+
+CONSTRUISEZ VOTRE EMETTEUR FM
+CONCEPTION ET REALISATION                            R,MALLARD          A265   0077/ELE
+
+Cours d'electronique numerique et echantillonnee     A.Deluzurieux      A266   0078/ELE
+
+Introduction a l’electronique                        J jacques          A267   0079/ELE
+
+Electronique                                         Gilles CHOISY      A268   0080/ELE
+
+Wireless Networking Technology : From Principles
+to Successful Implementation                         Steve Rackley      A269   0081/ELE
+
+                                                     Mohamed SAID
+Electronique ; Exercices corriges                    ALAMI              A270   0082/ELE
+
+Mesures et essais sur machines electriques et
+systemes electroniques                               Pierre Garot       A271   0083/ELE
+Mesures et essais sur machines electriques et
+systemes electroniques                               Pierre Garot       A272   0084/ELE
+
+Electronique : Resume de cours / Sujets corriges     Gilles Choisy      A273   0085/ELE
+
+Electronique : Resume de cours / Sujets corriges     Gilles Choisy      A274   0086/ELE
+
+Electronique : Resume de cours / Sujets corriges     Gilles Choisy      A275   0087/ELE
+
+                                                     Tucker
+                                                     Hammerstrom et
+Les microprocesseurs                                 Gregg Wyant        A276   0088/ELE
+
+                                                     Tucker
+                                                     Hammerstrom et
+Les microprocesseurs                                 Gregg Wyant        A277   0089/ELE
+
+Aide-memoire : Electronique generale BTS-IUT         Jean-Marc
+1er et 2e cycles - ecoles d'ingenieurs               Pointevin          A278   0090ELE
+
+Aide-memoire : Electronique generale BTS-IUT         Jean-Marc
+1er et 2e cycles - ecoles d'ingenieurs               Pointevin          A279   0091/ELE
+
+Circuits numeriques : theorie et applications        Ronald J. Toca     A280   0092/ELE
+
+Precis d'electro-acoustique : Prise de son et
+reproduction                                         Dominique Fellot   A281   0093/ELE
+
+Mesures et essais sur circuits electriques et
+dispositifs electroniques : Tome 1                   Pierre Garot       A282   0094/ELE
+
+                                                     Rene Bourgeois
+Equipements et installations electriques             Bernard Lehalle    A283   0095/ELE
+
+Mesures et essais sur circuits electriques et
+dispositifs electroniques : Tome 1                   Pierre Garot       A284   0096/ELE
+
+L'electronique par le schema                         Hermann Schreiber  A285   0097/ELE
+
+L'Electronique ? rien de plus simple ! : Dix-sept
+causeries amusantes expliquant d'une maniere
+simple les bases de l'electronique et ses            Jean-Pierre
+applications dans l'industrie                        Oehmichen            A286   0098/ELE
+
+L'interface parallele du PC (+ web)                  Patrice Oguic        A287   0099/ELE
+
+PRATIQUE D'ELECTRONIQUE,                             MOHAMED
+D'AUTOMATIQUE ET DE ROBOTIQUE                        DIOURI               A288   0100/ELE
+
+PRATIQUE D'ELECTRONIQUE,                             MOHAMED
+D'AUTOMATIQUE ET DE ROBOTIQUE                        DIOURI               A289   0101/ELE
+
+                                                     Bruno Chevalier
+Electronique : Composants                            Gerard Chevalier     A290   0102/ELE
+
+                                                     Jean-Louis
+L'Electronique de communication : Analyse des        Cocquerelle et Guy
+circuits par la methode de l'invariance relative     Seguier              A291   0103/ELE
+
+Introduction a l'electronique analogique             M. Sauzade           A292   0104/ELE
+Problemes d'electrotechnique a l'usage des
+ingenieurs : Machines electriques                    Fouille              A293   0105/ELE
+
+PC et electronique pratique                          Bernd Zoller         A294   0106/ELE
+
+GENIE ELECTRONIQUE PRATIQUE                          IGA                  A295   0107/ELE
+
+Electricite, electronique : theorie, application,
+laboratoire : classes de 1re F, formation continue   Hebert               A296   0108/ELE
+
+COMPOSANTS ELECTRONIQUES. Technologie
+et utilisation                                       Rene Besson          A297   0109/ELE

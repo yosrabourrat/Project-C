@@ -1,0 +1,272 @@
+
+titre                            auteur                       edition code
+
+Manuel du Developpeur Microsoft
+Access 2000                      RICK DOBSON                  A740    0012/INF
+
+Le Temps reel en Milieu
+Industriel                       A,DORSEUIL                   A741    0017/INF
+
+GRAVURE DES CD ET DVD POUR LES
+NULS                             Mark L. Chambers             A742    0139/INF
+
+WORD EXCEL POWER POINT ET OUTLOK
+2007                             MICHEL MARTIN                A743    0141/INF
+
+WINDOWS 7 DEPLOIEMENT ET
+MIGRATION                        W,BORIES                     A744    0243/INF
+
+REUSSIR SON C2i DE NIVEAU 1      L,JEANNIN                    A745    0263/INF
+
+International Symposium on
+Programming: 6th Colloquium
+Toulouse                         M. Paul et B. Robinet        A746    0307/INF
+
+International Symposium on
+Programming: 6th Colloquium
+Toulouse                         M. Paul et B. Robinet        A747    0308/INF
+
+International Symposium on
+Programming: 6th Colloquium
+Toulouse                         M. Paul et B. Robinet        A748    0309/INF
+
+International Symposium on
+Programming: 6th Colloquium
+Toulouse                         M. Paul et B. Robinet        A749    0310/INF
+
+International Symposium on
+Programming: 6th Colloquium
+Toulouse                         M. Paul et B. Robinet        A750    0311/INF
+
+International Symposium on
+Programming: 6th Colloquium
+Toulouse                         M. Paul et B. Robinet        A751    0312/INF
+
+
+International Symposium on
+Programming: 6th Colloquium
+Toulouse                         M. Paul et B. Robinet        A752    0313/INF
+
+
+Modelisation et simulation a     Jean-Pierre Treuil et Alexis
+base d'agents                    Drogoul                      A753    0333/INF
+
+
+Modelisation et simulation a     Jean-Pierre Treuil et Alexis
+base d'agents                    Drogoul                      A754    0334/INF
+
+Modelisation et simulation a     Jean-Pierre Treuil et Alexis
+base d'agents                    Drogoul                      A755    0335/INF
+
+Mac OS X Panther pour les nuls   Le Vitus, Bob                A756    0345/INF
+
+Mac OS X Panther, trucs et
+astuces pour nuls                Larry Ullman , Marc Liyanage A757    0346/INF
+
+Knowledge Acquisition for
+Knowledge-Based Systems: 7th
+European Workshop                G. Boy                       A758    0364/INF
+
+Knowledge Acquisition for
+Knowledge-Based Systems: 7th
+European Workshop                G. Boy                       A759    0365/INF
+
+Word 5 Mac…                      Isabelle Daude               A760    0394/INF
+
+Informatique industrielle : 23
+problemes pratiques avec rappels
+de cours                         Dumas                        A761    456 /INF
+
+Informatique industrielle : 23
+problemes pratiques avec rappels
+de cours                         Dumas                        A762    457 /INF
+
+                                 Helmut Vonhoegen et Alfred
+Microsoft Excel 97               Kamenz                       A763    494 /INF
+
+
+Knowledge Acquisition for
+Knowledge-Based Systems: 7th
+European Workshop                G. Boy,                      A764    642 /INF
+
+
+Knowledge Acquisition for
+Knowledge-Based Systems: 7th
+European Workshop                G. Boy,                      A765    643 /INF
+
+Word 2000                        Collectif                    A766    732 /INF
+
+Word 2000                        Collectif                    A767    733 /INF
+
+Les outils informatiques de
+l'etudiant : Word, Excel,
+Access, Powerpoint, Internet
+Explorer, Outlook                Pierre-Alain Goupille        A768    777 /INF
+
+Concepts fondamentaux de
+l'informatique                   Aho et Ullman                A769    815 /INF
+
+
+Cours et exercices
+d'informatique : Classes
+preparatoires, 1er et 2nd cycles
+universitaires                   Luc Albert et Daniel Krob    A770    819 /INF
+
+
+Programmation Access 2002        Scott Barker                 A771    833 /INF
+
+Cours d'informatique             Albert                       A772    838 /INF
+
+PIF: Voyages au Pays de
+L'informatique Fondamentale au
+Gre de Problemes de Concours
+(SCOPOS) (French)                E. Badouel                   A773    842 /INF
+
+
+PIF: Voyages au Pays de
+L'informatique Fondamentale au
+Gre de Problemes de Concours
+(SCOPOS) (French)                E. Badouel                   A774    843 /INF
+
+
+Portez vos bases Access sur le
+web                              Lentzner                     A775    854 /INF
+
+Compilateurs : Principes,
+techniques et outils             Alfred Aho , Ravi Sethi ,    A776    855 /INF
+
+
+REVOLUTION INFORMATIQUE          UNION generale d'edition     A777    862 /INF
+
+MEMENTO LOTUS 1.2.3 avec macro
+commandes                        jean- Marie Horn             A778    863 /INF
+
+
+Database and Expert Systems
+Applications: 8th International
+Conference, DEXA'97, Toulouse    A. Min Tjoa / A. Hameurlain  A779    867 /INF
+
+
+Database and Expert Systems
+Applications: 8th International
+Conference, DEXA'97, Toulouse    A. Min Tjoa / A. Hameurlain  A780    868 /INF
+
+
+PARLE '92 PARALLEL ARCHITECURESZ
+AND LANGUAGES EUROPE             D. ETIEMBLE / J.-C. SYRE     A781    869 /INF
+
+Language Hierrarchies and
+Interfaces                       G. GOOS / J. HARTMANIS       A782    870 /INF
+
+OPERATING SYSTEMS                G. GOOS / J. HARTMANIS       A783    871 /INF
+
+Fm'99 - Formal Methods: World
+Congress on Formal Methods in
+the Development of Computing
+Systems                          Jeannette M. Wing …          A784    872 /INF
+
+Fm'99 - Formal Methods: World
+Congress on Formal Methods in
+the Development of Computing
+Systems                          Jeannette M. Wing …          A785    873 /INF
+
+International Symposium on
+Programming: 6th Colloquium,
+Toulouse, April 17-19, 1984.
+Proceedings                      M. Paul / B. Robinet         A786    874 /INF
+
+International Symposium on
+Programming: 6th Colloquium,
+Toulouse, April 17-19, 1984.
+Proceedings                      M. Paul / B. Robinet         A787    875 /INF
+
+International Symposium on
+Programming: 6th Colloquium,
+Toulouse, April 17-19, 1984.
+Proceedings                      M. Paul / B. Robinet         A788    876 /INF
+
+International Symposium on
+Programming: 6th Colloquium,
+Toulouse, April 17-19, 1984.
+Proceedings                      M. Paul / B. Robinet         A789    877 /INF
+
+International Symposium on
+Programming: 6th Colloquium,
+Toulouse, April 17-19, 1984.
+Proceedings                      M. Paul / B. Robinet         A790    878 /INF
+
+International Symposium on
+Programming: 6th Colloquium,
+Toulouse, April 17-19, 1984.
+Proceedings                      M. Paul / B. Robinet         A791    879 /INF
+
+International Symposium on
+Programming: 6th Colloquium,
+Toulouse, April 17-19, 1984.
+Proceedings                      M. Paul / B. Robinet         A792    880 /INF
+
+
+International Symposium on
+Programming: 6th Colloquium,
+Toulouse, April 17-19, 1984.
+Proceedings                      M. Paul / B. Robinet         A793    881 /INF
+
+
+International Symposium on
+Programming: 6th Colloquium,
+Toulouse, April 17-19, 1984.
+Proceedings                      M. Paul / B. Robinet         A794    882 /INF
+
+
+International Symposium on
+Programming: 6th Colloquium,
+Toulouse, April 17-19, 1984.
+Proceedings                      M. Paul / B. Robinet         A795    883 /INF
+
+
+International Symposium on
+Programming: 6th Colloquium,
+Toulouse, April 17-19, 1984.
+Proceedings                      M. Paul / B. Robinet         A796    884 /INF
+
+
+Euro-Par'99 Parallel Processing:
+5th International Euro-Par
+Conference, Toulouse             de Patrick Amestoy …         A797    885 /INF
+
+
+Euro-Par'99 Parallel Processing:
+5th International Euro-Par
+Conference, Toulouse             de Patrick Amestoy …         A798    886 /INF
+
+
+Modelisation et simulation a
+base d'agents: Exemples
+commentes, outils informatiques  Jean-Pierre Treuil , Alexis
+et questions                     Drogoul                      A799    909 /INF
+
+
+Principes et applications des
+interfaces pour micro-
+ordinateurs/techniques, normes,
+connexions                       Lilen                        A800    932 /INF
+
+
+guide des applications
+sectorielles textile habillement
+cuir                             Laballery                    A801    933 /INF
+
+
+Mise en page avec OpenOffice.org
+Writer : De la conception à la
+realisation prepresse            Igor Barzilai                A802    945 /INF
+
+
+CMMI 1.2 L'aide-memoire : Les
+domaines de processus du CMMI-
+DEV                              Richard Basque               A803    991 /INF
+
+
+SAS : Maitriser les langages SAS
+Base et SAS Macro (version 9 et  Helene Kontchou et Olivier
+anterieurs)                      Decourt                      A804    999 /INF

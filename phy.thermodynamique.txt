@@ -1,0 +1,83 @@
+
+titre                                                         auteur            edition     code
+____________________________________________________________________________________________________
+
+                                                              HUBERT
+Thermodynamique 1ere Annee                                    LUMBROSO          A1934     0031/PHY
+
+                                                              HUBERT
+Thermodynamique 2eme Annee                                    LUMBROSO          A1935     0032/PHY
+
+                                                              JOSE PHILIPPE
+Thermodynamique , Fondements et Applications                  PEREZ             A1936     0033/PHY
+
+Thermodynamique Appliquee                                     VAN WYLEN         A1937     0034/PHY
+
+                                                              EMILE
+Thermodynamique                                               AMZALLAG          A1938     0035/PHY
+
+                                                              MICHEL LE
+Thermodynamique statistique                                   BELLAC            A1939     0036/PHY
+
+                                                              LYDERIC
+Toute la Thermodynamique                                      BOQUET            A1940     0037/PHY
+
+                                                              MICHEL LE
+Termodynamique Statistique                                    BELLAC            A1941     0038/PHY
+
+                                                              Paul ROUX
+Thermodynamique Physique et Chimique 2e Annee MP - MP*        JEAN-Robert
+                                                              Seigne            A1942     0122/PHY
+
+THERMODYNAMIQUE OPTIQUE GEOMETRIQUE 1 ANNEE MPSI,
+PCSI, PTSI                                                    JEAN LE HIR       A1943     0171/PHY
+
+                                                              JEAN BERGUA,
+RESOUDRE UN CLASSIQUE MECANIQUE MECANIQUE DES                 PHILIPPE
+FLUIDE THERMODYNAMIQUE                                        GOULLEY           A1944     0176/PHY
+
+                                                              Bernard Diu,
+                                                              Danielle Lederer
+Elements de Physique statistique                              et Bernard        A1945      0185/PHY
+
+LES NOUVAUX PRECIS BREAL PHYSIQUE THERMODYNAMIQUE
+PC- PSI                                                       N.CHOIMET         A1946     0208/PHY
+
+LES NOUVAUX PRECIS BREAL PHYSIQUE THERMODYNAMIQUE
+MPSI                                                          G.FAVERJON        A1947     0212/PHY
+
+THERMODYNAMIQUE1ER MPSI PCSI.PTSI                             J.M.BREBEC        A1948     0216/PHY
+
+THERMODYNAMIQUE 2e annee MP.MP*_PC.PC*/PSI.PSI*_PT.PT*        J.M.BREBEC        A1949     0217/PHY
+
+EXERCICES ET PROBLEMES DE PHYSIQUE
+THERMODYNAMIQUE                                               P.GRECIAS         A1950     0220/PHY
+                                                              J,PIERRE
+                                                              DUBARRY-
+THERMODYNAMIQUE EXERCICES ET PROBLEMES CORRIGES BARBE                           A1951     0231/PHY
+
+Traveaux diriges de THERMODYNAMIQUE 2eme Annee PT-PT*-        Mirielle
+PSI-PSI*                                                      COULOMBEAU        A1952     0237/PHY
+
+                                                              Jean-Noel
+                                                              Foussard,
+Mini manuel de Thermodynamique                                Stephane 
+                                                              Mathe             A1953     0254/PHY
+                 
+                                                              Jean-Noel
+                                                              Foussard,
+                                                              Edmond Julien,
+Thermodynamique 2 édition                                    Stephane 
+                                                              Mathé             A1954     0255/PHY
+
+Thermodynamique                                               Le Rille          A1955     0270/PHY
+
+THERMODYNAMIQUE FONDEMENTS ET APPLICATIONS 3                  J,PHILIPPE
+EDITION                                                       PEREZ             A1956     0306/PHY
+
+                                                              J MARIE
+H PREPA THERMODYNAMIQUE 1ere ANNEE MPSI-PCSI-PTSI             BREBEC            A1957     0312/PHY
+
+mecanique thermodynamique pcsi physique 1                     J Bergua          A1958     0328/PHY
+
+

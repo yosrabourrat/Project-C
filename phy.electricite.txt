@@ -1,0 +1,95 @@
+
+titre                                                                   auteur           edition     code
+____________________________________________________________________________________________________________
+
+                                                                        BADIE
+101 Exercices d' Electricite                                            DIOURTE          A2078     0078/PHY
+
+                                                                        JEAN PAUL
+Circuits electriques                                                    BANCAREL         A2079     0079/PHY
+
+
+Genie electrique : Cours complet illustre, Electronique du signal,       Christophe
+electronique de puissance                                               Francois         A2080     0103/PHY
+
+
+Physique Des Semiconducteurs                                            christian NGO    A2081     0142/PHY
+
+
+                                                                        HUBERT
+LE SCEMA ELECTRIQUE                                                     LARGEAUD         A2082     0145/PHY
+
+                                                                        G. Beaufils, 
+                                                                        P.Bisiaux, M.
+APPLICATIONS INDUSTRILLES ET ENERGIE ELECTRIQUE                         Valleix          A2083     0146/PHY
+
+                                                                        JACQUES
+GENIE ENERGIETIQUE ENERGIE SOLAIRE                                      BERNARD          A2084     0163/PHY
+
+                                                                        BENJAMMIN
+                                                                        BLUNIER,
+                                                                        ABDELLATIF
+GENIE ENERGETIQUE PILES A COMBUSTIBLE                                   MIRAOUI          A2085     0164/PHY
+
+                                                                        Badie DIOURTE,
+                                                                        Karim
+101 EXERCICES D'ELECTRICITE                                             ERRAHMANE        A2086    0165/PHY
+
+                                                                        Guy Chateigner,
+                                                                        Michel Boes,
+MANUEL DE GENIE ELECTRIQUE                                              Daniel Bouix     A2087     0178/PHY
+
+Genie electrique : Cours complet illustre, Electronique du signal,       Christophe
+electronique de puissance                                               Francois         A2088     0189/PHY
+
+DETECTEURS A SEMI-CONDUCTEURS                                           J.P.PONON        A2089     0218/PHY
+
+                                                                        J,PIERRE
+DETECTEURS A SEMI CONDUCTEURS                                           PONPON           A2090     0229/PHY
+
+MANUEL DE GENIE ELECTRIQUE                                              D,BOUIX          A2091     0291/PHY
+
+                                                                        Y,GRANJON / M.
+SCHAUM,S CIRCUITS ELECTRIQUES 4eme EDITION                              NAHVI            A2092     0299/PHY
+
+MINI SCHAUM'S Electricite                                               M,GUSSOW         A2093     0311/PHY
+
+PHYSIQUE DES SEMI CONDUCTEURS 3 EDITION                                 CH, NGO          A2094     0313/PHY
+
+ENERGIE ELECTRICITE ET NUCLEAIRE                                        G,NAUDET         A2095     0314/PHY
+
+                                                                        J,PIERRE
+                                                                        DUBARRY-
+ELECTRICITE EXERCICES ET PROBLEMES                                      BARBE            A2096     0318/PHY
+
+CELLULES SOLAIRES 5eme EDITION                                          A,LABOURET       A2097     0323/PHY
+
+                                                                        JOSEPH A.
+SCHAUM'S CIRCUITS ELECTRIQUES 4 EDITION                                 EDMINISTER       A2098     0324/PHY
+
+ENERGETIQUE CONCEPTS ET APPLICATIONS COURS ET
+EXERCICES CORRIGES                                                      M,FEIDT          A2099     0326/PHY
+
+PHYSIQUE DES SEMICONDUCTEURS ET DES COMPSANTES
+ELECTRONIQUES 6 EDITION                                                 H. MATHIEU       A2100     0327/PHY
+
+Genie electrique - Electronique analogique, electronique numerique
+Exercices et problemes corriges - IUT, BTS, CPGE (TSI et ATS), ecoles
+d'ingenieurs                                                            C. Francois       A2101     0330/PHY
+
+Genie electrique / Cours.                                               Ch , Francois     A2102     0331/PHY
+
+                                                                        Guy
+                                                                        CHATEIGNER,
+Manuel de genie electrique                                              Michel BOES       A2103      0338/PHY
+
+circuits electriques                                                    j.niard           A2104      0343/PHY
+
+Traces des circuits imprimes                                            philippe Dunand   A2105      0347/PHY
+
+                                                                        ANNEQUIN ET
+ELECTRICITE 1 MAHEMATIQUES SUPERIEURES                                  BOUTIGNY          A2106      0349/PHY
+
+Moteurs electriques pour la robotique                                   Pierre Maye       A2107      0352/PHY
+
+Les actionneurs electriques pour la robotique et les asservissements    Gerard Lacroux    A2108      0354/PHY

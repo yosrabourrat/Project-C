@@ -1,0 +1,26 @@
+
+titre                              auteur           edition    code
+______________________________________________________________________
+
+Introduction aux Transferts        DOMINIQUE
+Thermiques                         MARCHIO           A1959   0051/PHY
+
+                                   BRUNO
+Transferts Thermiques              CHERON            A1960   0052/PHY
+
+                                   ANA MARIA
+Transferts thermiques              BIANCHI           A1961   0053/PHY
+
+Transferts Thermiques ,,,          JEAN TAINE        A1962   0054/PHY
+
+Introduction aux transferts        Jean-Luc
+thermiques                         Battaglia,
+                                   Andrzej Kusiak,
+                                   Jean-Rodolphe
+                                   Puiggali          A1963   0256/PHY
+
+Manuel de thermique : theorie et
+pratique                           B.EYGLUNENT       A1964   0334/PHY
+
+Manuel de thermique : theorie et
+pratique                           B.EYGLUNENT       A1965   0335/PHY

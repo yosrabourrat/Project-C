@@ -1,0 +1,38 @@
+titre                                                                            auteur                        edition   code
+
+Gestion d' un Projet, Système d' Information,,,                                  CHANTAL MORLEY                A605      0008/INF
+La Conduite des Projets et d' Evolution des Systèmes ,,,                         J,GABAY                       A606      0009/INF
+Les Bases de Donnèes Oracle 8i                                                   ROGER CHAPUIS                 A607      0010/INF
+Base de Donnèe et Modèles de Calcul                                              JEAN LUC HAINAUT              A608      0011/INF
+Gestion et administration des bases de données : Applications à Sybase et Oracle Nacer Boudjlida               A609      0078/INF
+Aide mémoire CSS2                                                                PATRICK BEUZIT                A610      0086/INF
+TOUT SUR LES SYSTEMES D'INFORMATION                                              JEAN-FRANCOIS PILLOU          A611      0113/INF
+INFORMATIQUE DE GESTION BASES DE DONNES                                          JEROME AUBERT                 A612      0157/INF
+Bases de données. Concept, utilisation et développement                          Jean-Luc Hainaut              A613      0214/INF
+BASE DE DONNEES CONCEPTS UTILISATION ET DEVLOPPEMENT                             J,HAINAUT                     A614      0237/INF
+BASE DE DONNEES ARCHITECTURES                                                    S,MIRANDA                     A615      0253/INF
+                                                                                 Chris J. Date , Martine
+Introduction aux bases de données                                                Chalmond                      A616      689 /INF
+CSS 2                                                                            Daniel Glazman                A617      711 /INF
+Les bases de données Oracle 8i : Développement, administration et optimisation Roger Chapuis                   A618      762 /INF
+Bases de données : Architectures, modèles relationnels et objets, SQL3 (+DVD) Serge Miranda                    A619      769 /INF
+                                                                                 François Bodart et Yves
+Conception assistée des systèmes d'information : Méthode, modèles, outils        Pigneur                       A620      808 /INF
+                                                                                 Daniel T. Larose et Thierry
+Des données à la connaissance : Une introduction au data-mining (1Cédérom)       Vallaud                       A621      860 /INF
+                                                                                 Andreas Meier et D H
+Introduction pratique aux bases de données relationnelles                        Nguyen                        A622      889 /INF
+                                                                                 André Flory et Frédérique
+Les Bases de données Relationnelles                                              Laforest                      A623      895 /INF
+                                                                                 Ramon A. Mata-Toledo et
+Introduction aux bases de données relationnelles                                 Pauline
+                                                                                                               A624      903 /INF
+Bases de donnees et systemes relationnels                                        Delobel                       A625      919 /INF
+Bases de données                                                                 André Flory                   A626      973 /INF
+                                                                                 Patrick Bosc , Ludovic
+Gradualité et imprécision dans les bases de données                              Liétard ,                     A627      975 /INF
+Bases de données et modèles de calcul : Outils et méthodes pour l'utilisateur
+Cours et exercices corrigés                                                      Jean-Luc Hainaut              A628      976 /INF
+                                                                                 Claude Petit et Claude                  1015
+Méta-apprentissage d'expériences : Nouvelles voies en data mining                Dussart                       A629      /INF
+

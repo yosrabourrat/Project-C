@@ -1,0 +1,59 @@
+ 
+titre                                                                   auteur                               edition     code
+_________________________________________________________________________________________________________________________________
+
+Agebre et Geometrie , 90 Exercices devloppes                           JEAN MARIE MONIER                      A1443     0001/MAT
+Algebre et Geometrie : 90 Ex devloppes                                 JEAN MARIE MONIER                      A1444     0002/MAT
+Algebre et Geometrie : 90 Ex devloppes                                 JEAN MARIE MONIER                      A1445     0003/MAT
+Algebre et Geometrie : 90 Ex devloppes                                 JEAN MARIE MONIER                      A1446     0004/MAT
+Algebre et Geometrie : 90 Ex devloppes                                 JEAN MARIE MONIER                      A1447     0005/MAT
+Algebre et Geometrie 120 Exercices                                     JEAN MARIE MONIER                      A1448     0006/MAT
+Algebre et Geometrie : 90 Ex devloppes                                 JEAN MARIE MONIER                      A1449     0007/MAT
+Manuel de Mathematiques / Vol , 2                                      GERARD DEBEAUMARCHE                    A1450     0008/MAT
+Biomathematiques / Analyse , Algebre ,Probabilites ,Statistiques       SIMONE BINAZETH                        A1451     0009/MAT
+Algebre MPSI : Cours et 700 Exercices corriges                         JEAN MARIE MONIER                      A1452     0011/MAT
+Agebre et Gèomètie MPSI 160 Exercices                                  JEAN MARIE MONIER                      A1453     0012/MAT
+Algebre MPSI/ Cours et 700 Exercices corriges                          JEAN MARIE MONIER                      A1454     0013/MAT
+Algebre MPSI / Cours et 700 Exercices corriges                         JEAN MARIE MONIER                      A1455     0014/MAT
+Algebre MPSI / Cours et 700 Exercices corriges                         JEAN MARIE MONIER                      A1456     0015/MAT
+Algebre 2 , Cours et 500 Exercices corriges                            JEAN MARIE MONIER                      A1457     0017/MAT
+Best of Algebre et Geometrie , 2eme Annee                              DANIEL FREDON                          A1458     0018/MAT
+Best of Algebre et Geometrie , 2eme Annee                              DANIEL FREDON                          A1459     0019/MAT
+Best of Algebre et Geometrie 2eme annee                                DANIEL FREDON                          A1460     0020/MAT
+Best of Algebre et Geometrie / 2eme annee                              DANIEL FREDON                          A1461     0021/MAT
+Algebre et Geometrie 2 eme annee exercices corriges                    DOMINIQUE PROCHASSON                   A1462     0022/MAT
+Algebre et Geometrie 2 eme annee exercices corriges                    DOMINIQUE PROCHASSON                   A1463     0023/MAT
+Quelques Methodes de ResolUtation des Probleme                         JACQUES LOUIS LION                     A1464     0024/MAT
+Geometrie Affine et Euclidienne                                        CLAUDE DELODE                          A1465     0025/MAT
+Best of Algebre / 1ere annee                                           JEROME JERMONI                         A1466     0026/MAT
+Best of Algebre 1er annee les Meilleurs Sujets d'Examen                JEROME JERMONI                         A1467     0027/MAT
+                                                                       LUC JOLIVET                            A1468     0028/MAT
+Algebre lineaire et Geometrie 
+Introduction a l'algebre lineaire                                      LUC AMYOTTE                            A1469     0029/MAT
+Algebre lineaire /Cours et Exercices                                   JEAN CHARLES SAVIOZ                    A1470     0030/MAT
+Exercices d' Algebre lineaire                                          PATRICE TAUVEL                         A1471     0031/MAT
+Algebre lineaire                                                       DAVIDC,LAY                             A1472     0032/MAT
+Algebre Generale                                                       ANNE DENMAT                            A1473     0101/MAT
+Algebre lineaire                                                       A. Denmat et FrançoisHeaulme           A1474     0112/MAT
+Exercices d'algèbre linéaire                                           Patrice Tauvel                         A1475     0113/MAT
+Algebre, analyse, geometrie Prepa MPSI/PCSI                            VUIBERT                                A1476     0114/MAT
+Best of Algebre et Geometrie 2e Annee les meilleurs Sujets d'examen
+corriges                                                               DaniEL FREDON Abdelkader n             A1477     0119/MAT
+Best of Algebre et Geometrie 2e Annee les meilleurs Sujets d'examen
+corriges                                                               DaniEL FREDON Abdelkader n             A1478     0120/MAT
+Best of Algebre et Geometrie 2e Annee les meilleurs Sujets d'examen
+corriges                                                               DaniEL FREDON A, nacer                 A1479     0121/MAT
+Best of Algebre et Geometrie 2e Annee les meilleurs Sujets d'examen
+corriges                                                               DaniEL FREDON A, nacer                 A1480     0122/MAT
+Best of Algebre et Geometrie 2e Annee les meilleurs Sujets d'examen
+corrigés                                                               DaniEL FREDON A, nacer                 A1481     0123/MAT
+Algebre et Geometrie : 90 Ex devloppes                                 JEAN MARIE MONIER                      A1482     0124/MAT
+Algebre et Geometrie : 90 Ex devloppes                                 JEAN MARIE MONIER                      A1483     0125/MAT
+COURS DE TOPOLOGIE                                                     GUSTAVE CHOQUET                        A1484     0126/MAT
+COURS DE TOPOLOGIE                                                     GUSTAVE CHOQUET                        A1485     0127/MAT
+COURS DE TOPOLOGIE                                                     GUSTAVE CHOQUET                        A1486     0128/MAT
+COURS DE TOPOLOGIE                                                     GUSTAVE CHOQUET                        A1487     0129/MAT
+Cours de Mathematiques 1,Algebre                                       RAMIS DESCHAMPS ODOUX                  A1488     0130/MAT
+Cours de Mathematiques 1,Algebre                                       RAMIS DESCHAMPS ODOUX                  A1489     0131/MAT
+Cours de Mathematiques 1,Algebre                                       RAMIS DESCHAMPS ODOUX                  A1490     0132/MAT
+Cours de Mathematiques 1,Algebre                                       RAMIS DESCHAMPS ODOUX                  A1491     0133/MAT

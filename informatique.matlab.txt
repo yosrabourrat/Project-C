@@ -1,0 +1,18 @@
+titre                                                                            auteur                        edition code
+
+INTRODUCTION A MATLAB                                                            J.THIERRY                     A856   0174/INF
+INTRODUCTION A MATLAB                                                            J,THIERRY LAPRESTE            A857   0197/INF
+Calcul scientifique avec MATLAB : Outils MATLAB specifiques, equations aux
+derivees partielles                                                              J,KOKO                        A858   0203/INF
+Matlab pour I'ingenieur Version 7                                                ADRIAN BIRAN                  A859   0217/INF
+Introduction a Matlab                                                            Lapreste                      A860   0225/INF
+MATLAB 5.2 & 5.3 et SIMULINK 2 & 3 : pour etudiants et ingenieurs                Mohand Mokhtari               A861   579 /INF
+MATLAB 5.2 & 5.3 et SIMULINK 2 & 3 : pour etudiants et ingenieurs                Mohand Mokhtari               A862   580 /INF
+MATLAB 5.2 & 5.3 et SIMULINK 2 & 3 : pour etudiants et ingenieurs                Mohand Mokhtari               A863   581 /INF
+APPRENDRE ET MAITRISER MATLAB. : Avec une disquette                              Mohand Mokhtari               A864   582 /INF
+APPRENDRE ET MAITRISER MATLAB. : Avec une disquette                              Mohand Mokhtari               A865   583 /INF
+APPRENDRE ET MAITRISER MATLAB. : Avec une disquette                              Mohand Mokhtari               A866   584 /INF
+Getting Started With Matlab: A Quick Introduction for Scientists and Engineers   Rudra Pratap                  A867   805 /INF
+                                                                                 Maurice Rivoire, Jean-Louis
+Matlab, Simulink, Stateflow : avec des exercices d'automatique resolus           Ferrier                       A868   993 /INF
+

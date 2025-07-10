@@ -1,0 +1,313 @@
+
+titre                                      auteur          edition      code
+________________________________________________________________________________
+
+Madame bovary                              FLAUBERT         A2360     0077/DIV
+
+Madame bovary                              FLAUBERT         A2361     0078/DIV
+
+                                           PAULO
+Maktub                                     COELHO           A2362     0079/DIV
+
+Anthologie de la Poesie Francaise          G.POMPIDOU       A2363     0080/DIV
+
+La naissance de la Tragedie                NIETZSCHE        A2364     0081/DIV
+
+Le Passe Simple                            DRISS CHRAIBI    A2365     0082/DIV
+
+L'Argent                                   ZOLA             A2366     0083/DIV
+
+SUR LE BORD DE LA RIVIERE PIEDRA           PAULO
+PAULO COELHO                               COELHO           A2367     0142/DIV
+
+                                           PAULO
+LE PELERIN DE COMPOSTELLE                  COELHO           A2368     0143/DIV
+
+                                           PAULO
+COMME LE FLEUVE QUI COULE                  COELHO           A2369     0144/DIV
+
+                                           PAULO
+L'ALCHIMISTE                               COELHO           A2370     0145/DIV
+
+LA TRAVERSEE DES SENS                      NEDJMA           A2371     0146/DIV
+
+LA TRAVERSEE DES SENS                      NEDJMA           A2372     0147/DIV
+
+                                           YASMINA
+L'IMPOSTURE DES MOTS                       KHADRA           A2373     0148/DIV
+
+                                           YASMINA
+L'IMPOSTURE DES MOTS                       KHADRA           A2374     0149/DIV
+
+                                           MOHAMMED
+UN ETE AFRICAIN                            DIB              A2375     0150/DIV
+
+MEFIEZ VOUS DES PARACHUTISTES              FOUAD LAROUI     A2376     0151/DIV
+
+                                           YASMINA
+COUSINE K                                  KHADRA           A2377     0152/DIV
+
+UN CANDIDE EN TERRE SAINTE                 REGIS DEBRAY     A2378     0153/DIV
+
+THE MAGIC BARBER / Satarter                JOHN MILNE       A2379     0154/DIV
+
+                                           SEBASTIAN
+The Perfect Storm / Intermidiate           JUNGER           A2380     0155/DIV
+
+The Seventh Scroll / Intermidiate          Wilbur Smith     A2381     0156/DIV
+
+                                           F. Scott
+The Great Gatsby / Intermidiate            Fitzgerald       A2382     0157/DIV
+
+                                           SEBASTIAN
+The Perfect Storm / Intermidiate           JUNGER           A2383     0158/DIV
+
+Therese Raquin / Intermidiate              Emile Zola       A2384     0159/DIV
+
+                                           William
+Hamlet / Intermidiate                      Shakespeare      A2385     0160/DIV
+
+                                           William
+Much Ado About Nothing / Intermidiate      Shakespeare      A2386     0161/DIV
+
+No Longer at Ease / Intermidiate           Chinua achebe    A2387     0162/DIV
+
+                                           SEBASTIAN
+The Perfect Storm / Intermidiate           JUNGER           A2388     0163/DIV
+
+The Eye of the Tiger: Intermediate         Wilbur Smith     A2389     0164/DIV
+
+                                           Sir Arthur Conan
+The Sign of Four / Intermidiate            Doyle            A2390     0165/DIV
+
+The Woodlanders: Intermediate              Thomas Hardy     A2391     0166/DIV
+
+The Smuggler: Intermediate                 Piers Plowright  A2392     0167/DIV
+
+L is for Lawless: Intermediate             Sue Grafton      A2393     0168/DIV
+
+                                           Elizabeth von
+The Enchanted April: Intermediate          Arnim            A2394     0169/DIV
+
+The Pearl / Intermidiate                   John Steinbeck   A2395     0170/DIV
+
+Used in Evidence / Intermidiate            Frederick,       A2396     0171/DIV
+
+Ring of Thieves: Intermediate              Richard Prescott
+                                                            A2397     0172/DIV
+
+The Queen of Death: Intermediate           John Milne       A2398     0173/DIV
+
+                                           William
+Much Ado About Nothing / Intermidiate      Shakespeare      A2399     0174/DIV
+
+The Woman Who Disappeared: Intermediate    Philip Prowse    A2400     0175/DIV
+
+Wuthering Heights / Intermidiate           Emily Bronte     A2401     0176/DIV
+
+The Eye of the Tiger: Intermediate         Wilbur Smith     A2402     0177/DIV
+
+Touching the Void Pack: Intermediate Level Joe Simpson      A2403     0178/DIV
+
+The Queen of Death: Intermediate           John Milne       A2404     0179/DIV
+
+The Princess Diaries: Elementary           Meg Cabot        A2405     0180/DIV
+
+Seven Stories of Mystery and Horror:
+Elementary                                 Edgar Allan Poe  A2406      0181/DIV
+
+The Quest: Elementary                      Mandy Loader     A2407      0182/DIV
+
+The Quest: Elementary                      Mandy Loader     A2408      0183/DIV
+
+                                           W. Somerset
+The Escape and Other Stories: Elementary   Maugham          A2409     0184/DIV
+
+                                           Allan Frewin
+Unquiet Graves: Elementary                 Jones            A2410     0185/DIV
+
+                                                     R.L. Scott-
+The Promise: Elementary                              Beccleuch        A2411          0186/DIV
+
+                                                     Sir Arthur 
+The Hound of the Baskervilles: Elementary            Conan Doyle      A2412          0187/DIV
+
+The Prisoner of Zenda: Beginner                      Anthony Hope     A2413          0188/DIV
+
+                                                     Louisa May
+Good Wives: Beginner                                 Alcott           A2414          0189/DIV
+
+The Mill on the Floss: Beginner                      George Eliot     A2415          0190/DIV
+
+Marco: Beginner                                      Mike Elspen      A2416          0191/DIV
+
+The Trumpet-major: Beginner                          Thomas Hardy     A2417          0192/DIV
+
+Dangerous Journey : Beginner                         Alwyn Cox        A2418          0193/DIV
+
+                                                     James Fenimore
+The Last of the Mohicans: Beginner                   Cooper           A2419          0194/DIV
+
+The Phantom of the Opera: Beginner                   Gaston Leroux    A2420          0195/DIV
+
+The Long Tunnel: Beginner                            John Milne       A2421          0196/DIV
+
+Money for a Motorbike: Beginner                      John Milne       A2422          0197/DIV
+
+Bleak House: Upper                                   Charles Dickens  A2423          0198/DIV
+
+Bleak House: Upper                                   Charles Dickens  A2424          0199/DIV
+
+                                                     Daphne Du
+Rebecca: Upper                                       Maurier          A2425          0200/DIV
+
+                                                     William
+                                                     Makepeace
+Vanity Fair: Upper                                   Thackeray        A2426          0201/DIV
+
+Officially Dead: Upper                               Richard Prescott A2427          0202/DIV
+
+Persuasion: Pre-Intermediate                         Jane Austen      A2428          0203/DIV
+
+Casino Royale: Pre-intermediate                      Ian Fleming      A2429          0204/DIV
+
+Persuasion: Pre-Intermediate                         Jane Austen      A2430          0205/DIV
+
+The Tenant of Wildfell Hall : Pre-Intermediate       Anne Bronte      A2431          0206/DIV
+
+Gandhi Pre-Intermediate                              Rachel Bladon    A2432          0207/DIV
+
+Casino Royale: Pre-intermediate                      Ian Fleming      A2433          0208/DIV
+
+Robinson Crusoe: Pre-intermediate                    Daniel Defoe     A2434          0209/DIV
+
+Heidi : Pre-intermediate                             Johanna Spyri    A2435          0210/DIV
+
+The Tenant of Wildfell Hall : Pre-Intermediate       Anne Bronte      A2436          0211/DIV
+
+A Selection of Short Stories by D. H.
+Lawrence: Pre-intermediate                           D. H. Lawrence          A2437   0212/DIV
+
+                                                     Frances
+The Secret Garden : Pre-intermediate                 Hodgson Burnett         A2438   0213/DIV
+
+Le petit livre des Elections Americaines             Nicole bacharan         A2439   0318/DIV
+
+the Testament +CD / LEVEL 6                          John Grisham            A2440   0320/DIV
+
+the Testament +CD / LEVEL 6                          John Grisham            A2441   0321/DIV
+
+the Testament +CD / LEVEL 6                          John Grisham            A2442   0322/DIV
+
+                                                     William
+                                                     Kamkwamba et
+le garcon Qui dompta le vent                         Bryan Mealer            A2443   0323/DIV
+
+the Road Ahead +CD / LEVEL 3                         Bill Gates              A2444   0324/DIV
+
+the Rainmaker +CD / LEVEL 5                          John Grisham            A2445   0325/DIV
+
+                                                     Nathaniel
+the Scarlet Letter +CD / LEVEL 2                     Hawthorne               A2446   0326/DIV
+
+Gladiator A HERO Will Rise +CD / LEVEL 4             DEWEY GRAM              A2447   0327/DIV
+
+Gladiator A HERO Will Rise +CD / LEVEL 4             DEWEY GRAM              A2448   0328/DIV
+
+la fete de Martin lutheher King                      Margaret Mc
+A l'ecole Robin hill                                 Namara                  A2449   0330/DIV
+
+                                                     Marion Dane
+Merveilles de L'Amerique le grand canyon             Bauer                   A2450   0331/DIV
+
+                                                     Nicole
+Faut-t il avoir peur de l'Amerique?                  BACHARAN                A2451   0342/DIV
+
+Esquisse de l'histoire des ETATS-UNIS                Esquisse                A2452   0343/DIV
+
+Journal d'une suffragette                            Kathryn LASKY           A2453   0349/DIV
+
+President Barack OBAMA in his Own                    GEORGE
+WORDS                                                CLACK                   A2454   0352/DIV
+
+                                                     Booker T.
+Up From Slavery                                      Washington              A2455   0354/DIV
+
+ABRAHAM LINCOLN / l'homme au dela desStephen
+mythes                                               B.OATES                 A2456   0355/DIV
+
+BARACK OBAMA / L'AUDACE d'esperer
+/une nouvelle conception de la politique             BARACK
+americaine                                           OBAMA                   A2457   0357/DIV
+
+Fourberies de Scapin                                 Moliere                 A2462   0368/DIV
+
+ZOLA / La bete humaine                                       EMILE ZOLA               A2463   0369/DIV
+
+Biblio college / L'Avare                                     Moliere                  A2464   0370/DIV
+
+                                                             Frederick
+Sans bavures                                                 FORSYTH                  A2465   0371/DIV
+
+Zadig et autres contes                                       Voltaire                 A2466   0372/DIV
+
+Une vie / ROMAN                                              MAUPASSANT               A2467   0373/DIV
+
+                                                             JEAN-LOUIS
+Les francais de l’an 40 Tome1 / La guerre oui CREMIEUX -
+ou non ?                                                     BRILHAC                  A2468   0375/DIV
+
+Biblio college / Le Malade imaginaire                        Moliere                  A2469   0376/DIV
+
+MAGHREB                                                      MICHEL
+A l'ombre de ses mains                                       JOBERT                   A2470   0377/DIV
+
+La responsabilite de l'occident devant le                    RAAFAT
+danger de la guerre                                          CHAMBOUR                 A2471   0378/DIV
+
+Colomba Carmen                                               Prosper Merimee          A2472   0379/DIV
+
+Maitre et valets dans une comedie de XVIIIe Jean-Paul
+siecle                                                       Brighelli
+Le barbier de Seville de Beaumarchais                        & Michel
+L'Ile des esclaves de Marivaux                               Dobransky                A2473   0380/DIV
+
+25 modeles d'explication de texte et de
+lecture methodique                                           Bruno hongre             A2474   0381/DIV
+
+Poil de carotte / Histoires naturelles                       Jules Renard             A2475   0382/DIV
+
+                                                             TAHAR BEN
+Les yeux baisses                                             JELLOUN                  A2476   0384/DIV
+
+journal                                                      Anne Frank               A2477   0386/DIV
+
+                                                             THIERRY
+Cent millions d'arabes                                       DESJARDINS               A2478   0387/DIV
+
+Le harem politique / Le prophete et les                      Fatima
+femmes                                                       MERNISSI                 A2479   0388/DIV
+
+Candide Zadig / Classiques Eternels                          Voltaire                 A2480   0389/DIV
+                                                             Kamal Joumblatt
+                                                             / Philippe
+
+Pour le Liban                                                Lapousterle              A2481   0392/DIV
+
+A plus d'un titre Sketches inedits                           Raymond Devos            A2482   0393/DIV
+
+LA MARCHE DE RADETZKY                                        Joseph ROTH              A2483   0394/DIV
+
+LES PALESTINIENS un peuple                                   XAVIER BARON             A2484   0395/DIV
+
+Le dossier du Sahara occidental                              Attilio GAUDIO           A2485   0396/DIV
+
+                                                             Francis Mateo/
+Les verbes espagnols / Collection                            Antonio Jose             A2486   0397/DIV
+
+Bescherelle                                                  Rojo Sastre
+                                                             ALPHONSE
+Le petit chose                                               DAUDET                   A2487   0398/DIV
+
+cles de l'oeuvre                                             RABELAIS                 A2499   0477/DIV
+                                                             

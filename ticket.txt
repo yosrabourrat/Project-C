@@ -1,0 +1,10 @@
+
+ ================= *TICKET DU LECTEUR* ================
+
+	-PRENOM : YOSRA
+	-NOM : BOURRAT
+	-CODE DE LIVRE EMPRUNTE : 518
+	-DATE DE DEPOT : 15/07/2025
+
+ ======================================================
+

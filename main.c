@@ -34,7 +34,7 @@ void profession(){
             printf("     |*\t  Quel est votre type de profession s'il vous plait ? \t\t\t*|\n");
             printf("     |*\t\t\t\t\t\t\t\t\t\t*|\n");}
         if(i==6){
-            printf("     |*\t\t\t[1]: Un %ctudient\t\t\t\t\t*|\n",130);
+            printf("     |*\t\t\t[1]: Un %ctudiant\t\t\t\t\t*|\n",130);
             i++;
             printf("     |*\t\t\t\t\t\t\t\t\t\t*|\n");}
         if(i==7){
@@ -743,7 +743,7 @@ int main(){
     case 2:
         clear();
         espace_lecteur(n);
-              printf("\n \t La Liste  Des CODES Des Livres Emprint%cs \n",130);
+              printf("\n \t La Liste  Des CODES Des Livres Emprunt%cs \n",130);
               p=fopen("livre.txt","r");
           if(p==NULL){
         printf("\n Echec d'ouverture");
